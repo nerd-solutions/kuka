@@ -1,0 +1,1554 @@
+# datadset=[
+# 	{CreationTime:"05/1/2012 01:22:44 AM",Level:582.13}
+# 	{CreationTime:"04/30/2012 01:22:44 AM",Level:583.98}
+# 	{CreationTime:"04/27/2012 01:22:44 AM",Level:603.00}
+# 	{CreationTime:"04/26/2012 01:22:44 AM",Level:607.70}
+# 	{CreationTime:"04/25/2012 01:22:44 AM",Level:610.00}
+# 	{CreationTime:"04/24/2012 01:22:44 AM",Level:560.28}
+# 	{CreationTime:"04/23/2012 01:22:44 AM",Level:571.70}
+# 	{CreationTime:"04/20/2012 01:22:44 AM",Level:572.98}
+# 	{CreationTime:"04/19/2012 01:22:44 AM",Level:587.44}
+# 	{CreationTime:"04/18/2012 01:22:44 AM",Level:608.34}
+# 	{CreationTime:"04/17/2012 01:22:44 AM",Level:609.70}
+# 	{CreationTime:"04/16/2012 01:22:44 AM",Level:580.13}
+# 	{CreationTime:"04/13/2012 01:22:44 AM",Level:605.23}
+# 	{CreationTime:"04/12/2012 01:22:44 AM",Level:622.77}
+# 	{CreationTime:"04/11/2012 01:22:44 AM",Level:626.20}
+# 	{CreationTime:"04/10/2012 01:22:44 AM",Level:628.44}
+# 	{CreationTime:"04/9/2012 01:22:44 AM",Level:636.23}
+# 	{CreationTime:"04/5/2012 01:22:44 AM",Level:633.68}
+# 	{CreationTime:"04/4/2012 01:22:44 AM",Level:624.31}
+# 	{CreationTime:"04/3/2012 01:22:44 AM",Level:629.32}
+# 	{CreationTime:"04/2/2012 01:22:44 AM",Level:618.63}
+# 	{CreationTime:"03/30/2012 01:22:44 AM",Level:599.55}
+# 	{CreationTime:"03/29/2012 01:22:44 AM",Level:609.86}
+# 	{CreationTime:"03/28/2012 01:22:44 AM",Level:617.62}
+# 	{CreationTime:"03/27/2012 01:22:44 AM",Level:614.48}
+# 	{CreationTime:"03/26/2012 01:22:44 AM",Level:606.98}
+# 	{CreationTime:"03/23/2012 01:22:44 AM",Level:596.05}
+# 	{CreationTime:"03/22/2012 01:22:44 AM",Level:599.34}
+# 	{CreationTime:"03/21/2012 01:22:44 AM",Level:602.50}
+# 	{CreationTime:"03/20/2012 01:22:44 AM",Level:605.96}
+# 	{CreationTime:"03/19/2012 01:22:44 AM",Level:601.10}
+# 	{CreationTime:"03/16/2012 01:22:44 AM",Level:585.57}
+# 	{CreationTime:"03/15/2012 01:22:44 AM",Level:585.56}
+# 	{CreationTime:"03/14/2012 01:22:44 AM",Level:589.58}
+# 	{CreationTime:"03/13/2012 01:22:44 AM",Level:568.10}
+# 	{CreationTime:"03/12/2012 01:22:44 AM",Level:552.00}
+# 	{CreationTime:"03/9/2012 01:22:44 AM",Level:545.17}
+# 	{CreationTime:"03/8/2012 01:22:44 AM",Level:541.99}
+# 	{CreationTime:"03/7/2012 01:22:44 AM",Level:530.69}
+# 	{CreationTime:"03/6/2012 01:22:44 AM",Level:530.26}
+# 	{CreationTime:"03/5/2012 01:22:44 AM",Level:533.16}
+# 	{CreationTime:"03/2/2012 01:22:44 AM",Level:545.18}
+# 	{CreationTime:"03/1/2012 01:22:44 AM",Level:544.47}
+# 	{CreationTime:"02/29/2012 01:22:44 AM",Level:542.44}
+# 	{CreationTime:"02/28/2012 01:22:44 AM",Level:535.41}
+# 	{CreationTime:"02/27/2012 01:22:44 AM",Level:525.76}
+# 	{CreationTime:"02/24/2012 01:22:44 AM",Level:522.41}
+# 	{CreationTime:"02/23/2012 01:22:44 AM",Level:516.39}
+# 	{CreationTime:"02/22/2012 01:22:44 AM",Level:513.04}
+# 	{CreationTime:"02/21/2012 01:22:44 AM",Level:514.85}
+# 	{CreationTime:"02/17/2012 01:22:44 AM",Level:502.12}
+# 	{CreationTime:"02/16/2012 01:22:44 AM",Level:502.21}
+# 	{CreationTime:"02/15/2012 01:22:44 AM",Level:497.67}
+# 	{CreationTime:"02/14/2012 01:22:44 AM",Level:509.46}
+# 	{CreationTime:"02/13/2012 01:22:44 AM",Level:502.60}
+# 	{CreationTime:"02/10/2012 01:22:44 AM",Level:493.42}
+# 	{CreationTime:"02/9/2012 01:22:44 AM",Level:493.17}
+# 	{CreationTime:"02/8/2012 01:22:44 AM",Level:476.68}
+# 	{CreationTime:"02/7/2012 01:22:44 AM",Level:468.83}
+# 	{CreationTime:"02/6/2012 01:22:44 AM",Level:463.97}
+# 	{CreationTime:"02/3/2012 01:22:44 AM",Level:459.68}
+# 	{CreationTime:"02/2/2012 01:22:44 AM",Level:455.12}
+# 	{CreationTime:"02/1/2012 01:22:44 AM",Level:456.19}
+# 	{CreationTime:"01/31/2012 01:22:44 AM",Level:456.48}
+# 	{CreationTime:"01/30/2012 01:22:44 AM",Level:453.01}
+# 	{CreationTime:"01/27/2012 01:22:44 AM",Level:447.28}
+# 	{CreationTime:"01/26/2012 01:22:44 AM",Level:444.63}
+# 	{CreationTime:"01/25/2012 01:22:44 AM",Level:446.66}
+# 	{CreationTime:"01/24/2012 01:22:44 AM",Level:420.41}
+# 	{CreationTime:"01/23/2012 01:22:44 AM",Level:427.41}
+# 	{CreationTime:"01/20/2012 01:22:44 AM",Level:420.30}
+# 	{CreationTime:"01/19/2012 01:22:44 AM",Level:427.75}
+# 	{CreationTime:"01/18/2012 01:22:44 AM",Level:429.11}
+# 	{CreationTime:"01/17/2012 01:22:44 AM",Level:424.70}
+# 	{CreationTime:"01/13/2012 01:22:44 AM",Level:419.81}
+# 	{CreationTime:"01/12/2012 01:22:44 AM",Level:421.39}
+# 	{CreationTime:"01/11/2012 01:22:44 AM",Level:422.55}
+# 	{CreationTime:"01/10/2012 01:22:44 AM",Level:423.24}
+# 	{CreationTime:"01/9/2012 01:22:44 AM",Level:421.73}
+# 	{CreationTime:"01/6/2012 01:22:44 AM",Level:422.40}
+# 	{CreationTime:"01/5/2012 01:22:44 AM",Level:418.03}
+# 	{CreationTime:"01/4/2012 01:22:44 AM",Level:413.44}
+# 	{CreationTime:"01/3/2012 01:22:44 AM",Level:411.23}
+# 	{CreationTime:"12/30/2011 01:22:44 AM",Level:405.00}
+# 	{CreationTime:"12/29/2011 01:22:44 AM",Level:405.12}
+# 	{CreationTime:"12/28/2011 01:22:44 AM",Level:402.64}
+# 	{CreationTime:"12/27/2011 01:22:44 AM",Level:406.53}
+# 	{CreationTime:"12/23/2011 01:22:44 AM",Level:403.43}
+# 	{CreationTime:"12/22/2011 01:22:44 AM",Level:398.55}
+# 	{CreationTime:"12/21/2011 01:22:44 AM",Level:396.44}
+# 	{CreationTime:"12/20/2011 01:22:44 AM",Level:395.95}
+# 	{CreationTime:"12/19/2011 01:22:44 AM",Level:382.21}
+# 	{CreationTime:"12/16/2011 01:22:44 AM",Level:381.02}
+# 	{CreationTime:"12/15/2011 01:22:44 AM",Level:378.94}
+# 	{CreationTime:"12/14/2011 01:22:44 AM",Level:380.19}
+# 	{CreationTime:"12/13/2011 01:22:44 AM",Level:388.81}
+# 	{CreationTime:"12/12/2011 01:22:44 AM",Level:391.84}
+# 	{CreationTime:"12/9/2011 01:22:44 AM",Level:393.62}
+# 	{CreationTime:"12/8/2011 01:22:44 AM",Level:390.66}
+# 	{CreationTime:"12/7/2011 01:22:44 AM",Level:389.09}
+# 	{CreationTime:"12/6/2011 01:22:44 AM",Level:390.95}
+# 	{CreationTime:"12/5/2011 01:22:44 AM",Level:393.01}
+# 	{CreationTime:"12/2/2011 01:22:44 AM",Level:389.70}
+# 	{CreationTime:"12/1/2011 01:22:44 AM",Level:387.93}
+# 	{CreationTime:"11/30/2011 01:22:44 AM",Level:382.20}
+# 	{CreationTime:"11/29/2011 01:22:44 AM",Level:373.20}
+# 	{CreationTime:"11/28/2011 01:22:44 AM",Level:376.12}
+# 	{CreationTime:"11/25/2011 01:22:44 AM",Level:363.57}
+# 	{CreationTime:"11/23/2011 01:22:44 AM",Level:366.99}
+# 	{CreationTime:"11/22/2011 01:22:44 AM",Level:376.51}
+# 	{CreationTime:"11/21/2011 01:22:44 AM",Level:369.01}
+# 	{CreationTime:"11/18/2011 01:22:44 AM",Level:374.94}
+# 	{CreationTime:"11/17/2011 01:22:44 AM",Level:377.41}
+# 	{CreationTime:"11/16/2011 01:22:44 AM",Level:384.77}
+# 	{CreationTime:"11/15/2011 01:22:44 AM",Level:388.83}
+# 	{CreationTime:"11/14/2011 01:22:44 AM",Level:379.26}
+# 	{CreationTime:"11/11/2011 01:22:44 AM",Level:384.62}
+# 	{CreationTime:"11/10/2011 01:22:44 AM",Level:385.22}
+# 	{CreationTime:"11/9/2011 01:22:44 AM",Level:395.28}
+# 	{CreationTime:"11/8/2011 01:22:44 AM",Level:406.23}
+# 	{CreationTime:"11/7/2011 01:22:44 AM",Level:399.73}
+# 	{CreationTime:"11/4/2011 01:22:44 AM",Level:400.24}
+# 	{CreationTime:"11/3/2011 01:22:44 AM",Level:403.07}
+# 	{CreationTime:"11/2/2011 01:22:44 AM",Level:397.41}
+# 	{CreationTime:"11/1/2011 01:22:44 AM",Level:396.51}
+# 	{CreationTime:"10/31/2011 01:22:44 AM",Level:404.78}
+# 	{CreationTime:"10/28/2011 01:22:44 AM",Level:404.95}
+# 	{CreationTime:"10/27/2011 01:22:44 AM",Level:404.69}
+# 	{CreationTime:"10/26/2011 01:22:44 AM",Level:400.60}
+# 	{CreationTime:"10/25/2011 01:22:44 AM",Level:397.77}
+# 	{CreationTime:"10/24/2011 01:22:44 AM",Level:405.77}
+# 	{CreationTime:"10/21/2011 01:22:44 AM",Level:392.87}
+# 	{CreationTime:"10/20/2011 01:22:44 AM",Level:395.31}
+# 	{CreationTime:"10/19/2011 01:22:44 AM",Level:398.62}
+# 	{CreationTime:"10/18/2011 01:22:44 AM",Level:422.24}
+# 	{CreationTime:"10/17/2011 01:22:44 AM",Level:419.99}
+# 	{CreationTime:"10/14/2011 01:22:44 AM",Level:422.00}
+# 	{CreationTime:"10/13/2011 01:22:44 AM",Level:408.43}
+# 	{CreationTime:"10/12/2011 01:22:44 AM",Level:402.19}
+# 	{CreationTime:"10/11/2011 01:22:44 AM",Level:400.29}
+# 	{CreationTime:"10/10/2011 01:22:44 AM",Level:388.81}
+# 	{CreationTime:"10/7/2011 01:22:44 AM",Level:369.80}
+# 	{CreationTime:"10/6/2011 01:22:44 AM",Level:377.37}
+# 	{CreationTime:"10/5/2011 01:22:44 AM",Level:378.25}
+# 	{CreationTime:"10/4/2011 01:22:44 AM",Level:372.50}
+# 	{CreationTime:"10/3/2011 01:22:44 AM",Level:374.60}
+# 	{CreationTime:"09/30/2011 01:22:44 AM",Level:381.32}
+# 	{CreationTime:"09/29/2011 01:22:44 AM",Level:390.57}
+# 	{CreationTime:"09/28/2011 01:22:44 AM",Level:397.01}
+# 	{CreationTime:"09/27/2011 01:22:44 AM",Level:399.26}
+# 	{CreationTime:"09/26/2011 01:22:44 AM",Level:403.17}
+# 	{CreationTime:"09/23/2011 01:22:44 AM",Level:404.30}
+# 	{CreationTime:"09/22/2011 01:22:44 AM",Level:401.82}
+# 	{CreationTime:"09/21/2011 01:22:44 AM",Level:412.14}
+# 	{CreationTime:"09/20/2011 01:22:44 AM",Level:413.45}
+# 	{CreationTime:"09/19/2011 01:22:44 AM",Level:411.63}
+# 	{CreationTime:"09/16/2011 01:22:44 AM",Level:400.50}
+# 	{CreationTime:"09/15/2011 01:22:44 AM",Level:392.96}
+# 	{CreationTime:"09/14/2011 01:22:44 AM",Level:389.30}
+# 	{CreationTime:"09/13/2011 01:22:44 AM",Level:384.62}
+# 	{CreationTime:"09/12/2011 01:22:44 AM",Level:379.94}
+# 	{CreationTime:"09/9/2011 01:22:44 AM",Level:377.48}
+# 	{CreationTime:"09/8/2011 01:22:44 AM",Level:384.14}
+# 	{CreationTime:"09/7/2011 01:22:44 AM",Level:383.93}
+# 	{CreationTime:"09/6/2011 01:22:44 AM",Level:379.74}
+# 	{CreationTime:"09/2/2011 01:22:44 AM",Level:374.05}
+# 	{CreationTime:"09/1/2011 01:22:44 AM",Level:381.03}
+# 	{CreationTime:"08/31/2011 01:22:44 AM",Level:384.83}
+# 	{CreationTime:"08/30/2011 01:22:44 AM",Level:389.99}
+# 	{CreationTime:"08/29/2011 01:22:44 AM",Level:389.97}
+# 	{CreationTime:"08/26/2011 01:22:44 AM",Level:383.58}
+# 	{CreationTime:"08/25/2011 01:22:44 AM",Level:373.72}
+# 	{CreationTime:"08/24/2011 01:22:44 AM",Level:376.18}
+# 	{CreationTime:"08/23/2011 01:22:44 AM",Level:373.60}
+# 	{CreationTime:"08/22/2011 01:22:44 AM",Level:356.44}
+# 	{CreationTime:"08/19/2011 01:22:44 AM",Level:356.03}
+# 	{CreationTime:"08/18/2011 01:22:44 AM",Level:366.05}
+# 	{CreationTime:"08/17/2011 01:22:44 AM",Level:380.44}
+# 	{CreationTime:"08/16/2011 01:22:44 AM",Level:380.48}
+# 	{CreationTime:"08/15/2011 01:22:44 AM",Level:383.41}
+# 	{CreationTime:"08/12/2011 01:22:44 AM",Level:376.99}
+# 	{CreationTime:"08/11/2011 01:22:44 AM",Level:373.70}
+# 	{CreationTime:"08/10/2011 01:22:44 AM",Level:363.69}
+# 	{CreationTime:"08/9/2011 01:22:44 AM",Level:374.01}
+# 	{CreationTime:"08/8/2011 01:22:44 AM",Level:353.21}
+# 	{CreationTime:"08/5/2011 01:22:44 AM",Level:373.62}
+# 	{CreationTime:"08/4/2011 01:22:44 AM",Level:377.37}
+# 	{CreationTime:"08/3/2011 01:22:44 AM",Level:392.57}
+# 	{CreationTime:"08/2/2011 01:22:44 AM",Level:388.91}
+# 	{CreationTime:"08/1/2011 01:22:44 AM",Level:396.75}
+# 	{CreationTime:"07/29/2011 01:22:44 AM",Level:390.48}
+# 	{CreationTime:"07/28/2011 01:22:44 AM",Level:391.82}
+# 	{CreationTime:"07/27/2011 01:22:44 AM",Level:392.59}
+# 	{CreationTime:"07/26/2011 01:22:44 AM",Level:403.41}
+# 	{CreationTime:"07/25/2011 01:22:44 AM",Level:398.50}
+# 	{CreationTime:"07/22/2011 01:22:44 AM",Level:393.30}
+# 	{CreationTime:"07/21/2011 01:22:44 AM",Level:387.29}
+# 	{CreationTime:"07/20/2011 01:22:44 AM",Level:386.90}
+# 	{CreationTime:"07/19/2011 01:22:44 AM",Level:376.85}
+# 	{CreationTime:"07/18/2011 01:22:44 AM",Level:373.80}
+# 	{CreationTime:"07/15/2011 01:22:44 AM",Level:364.92}
+# 	{CreationTime:"07/14/2011 01:22:44 AM",Level:357.77}
+# 	{CreationTime:"07/13/2011 01:22:44 AM",Level:358.02}
+# 	{CreationTime:"07/12/2011 01:22:44 AM",Level:353.75}
+# 	{CreationTime:"07/11/2011 01:22:44 AM",Level:354.00}
+# 	{CreationTime:"07/8/2011 01:22:44 AM",Level:359.71}
+# 	{CreationTime:"07/7/2011 01:22:44 AM",Level:357.20}
+# 	{CreationTime:"07/6/2011 01:22:44 AM",Level:351.76}
+# 	{CreationTime:"07/5/2011 01:22:44 AM",Level:349.43}
+# 	{CreationTime:"07/1/2011 01:22:44 AM",Level:343.26}
+# 	{CreationTime:"06/30/2011 01:22:44 AM",Level:335.67}
+# 	{CreationTime:"06/29/2011 01:22:44 AM",Level:334.04}
+# 	{CreationTime:"06/28/2011 01:22:44 AM",Level:335.26}
+# 	{CreationTime:"06/27/2011 01:22:44 AM",Level:332.04}
+# 	{CreationTime:"06/24/2011 01:22:44 AM",Level:326.35}
+# 	{CreationTime:"06/23/2011 01:22:44 AM",Level:331.23}
+# 	{CreationTime:"06/22/2011 01:22:44 AM",Level:322.61}
+# 	{CreationTime:"06/21/2011 01:22:44 AM",Level:325.30}
+# 	{CreationTime:"06/20/2011 01:22:44 AM",Level:315.32}
+# 	{CreationTime:"06/17/2011 01:22:44 AM",Level:320.26}
+# 	{CreationTime:"06/16/2011 01:22:44 AM",Level:325.16}
+# 	{CreationTime:"06/15/2011 01:22:44 AM",Level:326.75}
+# 	{CreationTime:"06/14/2011 01:22:44 AM",Level:332.44}
+# 	{CreationTime:"06/13/2011 01:22:44 AM",Level:326.60}
+# 	{CreationTime:"06/10/2011 01:22:44 AM",Level:325.90}
+# 	{CreationTime:"06/9/2011 01:22:44 AM",Level:331.49}
+# 	{CreationTime:"06/8/2011 01:22:44 AM",Level:332.24}
+# 	{CreationTime:"06/7/2011 01:22:44 AM",Level:332.04}
+# 	{CreationTime:"06/6/2011 01:22:44 AM",Level:338.04}
+# 	{CreationTime:"06/3/2011 01:22:44 AM",Level:343.44}
+# 	{CreationTime:"06/2/2011 01:22:44 AM",Level:346.10}
+# 	{CreationTime:"06/1/2011 01:22:44 AM",Level:345.51}
+# 	{CreationTime:"05/31/2011 01:22:44 AM",Level:347.83}
+# 	{CreationTime:"05/27/2011 01:22:44 AM",Level:337.41}
+# 	{CreationTime:"05/26/2011 01:22:44 AM",Level:335.00}
+# 	{CreationTime:"05/25/2011 01:22:44 AM",Level:336.78}
+# 	{CreationTime:"05/24/2011 01:22:44 AM",Level:332.19}
+# 	{CreationTime:"05/23/2011 01:22:44 AM",Level:334.40}
+# 	{CreationTime:"05/20/2011 01:22:44 AM",Level:335.22}
+# 	{CreationTime:"05/19/2011 01:22:44 AM",Level:340.53}
+# 	{CreationTime:"05/18/2011 01:22:44 AM",Level:339.87}
+# 	{CreationTime:"05/17/2011 01:22:44 AM",Level:336.14}
+# 	{CreationTime:"05/16/2011 01:22:44 AM",Level:333.30}
+# 	{CreationTime:"05/13/2011 01:22:44 AM",Level:340.50}
+# 	{CreationTime:"05/12/2011 01:22:44 AM",Level:346.57}
+# 	{CreationTime:"05/11/2011 01:22:44 AM",Level:347.23}
+# 	{CreationTime:"05/10/2011 01:22:44 AM",Level:349.45}
+# 	{CreationTime:"05/9/2011 01:22:44 AM",Level:347.60}
+# 	{CreationTime:"05/6/2011 01:22:44 AM",Level:346.66}
+# 	{CreationTime:"05/5/2011 01:22:44 AM",Level:346.75}
+# 	{CreationTime:"05/4/2011 01:22:44 AM",Level:349.57}
+# 	{CreationTime:"05/3/2011 01:22:44 AM",Level:348.20}
+# 	{CreationTime:"05/2/2011 01:22:44 AM",Level:346.28}
+# 	{CreationTime:"04/29/2011 01:22:44 AM",Level:350.13}
+# 	{CreationTime:"04/28/2011 01:22:44 AM",Level:346.75}
+# 	{CreationTime:"04/27/2011 01:22:44 AM",Level:350.15}
+# 	{CreationTime:"04/26/2011 01:22:44 AM",Level:350.42}
+# 	{CreationTime:"04/25/2011 01:22:44 AM",Level:353.01}
+# 	{CreationTime:"04/21/2011 01:22:44 AM",Level:350.70}
+# 	{CreationTime:"04/20/2011 01:22:44 AM",Level:342.41}
+# 	{CreationTime:"04/19/2011 01:22:44 AM",Level:337.86}
+# 	{CreationTime:"04/18/2011 01:22:44 AM",Level:331.85}
+# 	{CreationTime:"04/15/2011 01:22:44 AM",Level:327.46}
+# 	{CreationTime:"04/14/2011 01:22:44 AM",Level:332.42}
+# 	{CreationTime:"04/13/2011 01:22:44 AM",Level:336.13}
+# 	{CreationTime:"04/12/2011 01:22:44 AM",Level:332.40}
+# 	{CreationTime:"04/11/2011 01:22:44 AM",Level:330.80}
+# 	{CreationTime:"04/8/2011 01:22:44 AM",Level:335.06}
+# 	{CreationTime:"04/7/2011 01:22:44 AM",Level:338.08}
+# 	{CreationTime:"04/6/2011 01:22:44 AM",Level:338.04}
+# 	{CreationTime:"04/5/2011 01:22:44 AM",Level:338.89}
+# 	{CreationTime:"04/4/2011 01:22:44 AM",Level:341.19}
+# 	{CreationTime:"04/1/2011 01:22:44 AM",Level:344.56}
+# 	{CreationTime:"03/31/2011 01:22:44 AM",Level:348.51}
+# 	{CreationTime:"03/30/2011 01:22:44 AM",Level:348.63}
+# 	{CreationTime:"03/29/2011 01:22:44 AM",Level:350.96}
+# 	{CreationTime:"03/28/2011 01:22:44 AM",Level:350.44}
+# 	{CreationTime:"03/25/2011 01:22:44 AM",Level:351.54}
+# 	{CreationTime:"03/24/2011 01:22:44 AM",Level:344.97}
+# 	{CreationTime:"03/23/2011 01:22:44 AM",Level:339.19}
+# 	{CreationTime:"03/22/2011 01:22:44 AM",Level:341.20}
+# 	{CreationTime:"03/21/2011 01:22:44 AM",Level:339.30}
+# 	{CreationTime:"03/18/2011 01:22:44 AM",Level:330.67}
+# 	{CreationTime:"03/17/2011 01:22:44 AM",Level:334.64}
+# 	{CreationTime:"03/16/2011 01:22:44 AM",Level:330.01}
+# 	{CreationTime:"03/15/2011 01:22:44 AM",Level:345.43}
+# 	{CreationTime:"03/14/2011 01:22:44 AM",Level:353.56}
+# 	{CreationTime:"03/11/2011 01:22:44 AM",Level:351.99}
+# 	{CreationTime:"03/10/2011 01:22:44 AM",Level:346.67}
+# 	{CreationTime:"03/9/2011 01:22:44 AM",Level:352.47}
+# 	{CreationTime:"03/8/2011 01:22:44 AM",Level:355.76}
+# 	{CreationTime:"03/7/2011 01:22:44 AM",Level:355.36}
+# 	{CreationTime:"03/4/2011 01:22:44 AM",Level:360.00}
+# 	{CreationTime:"03/3/2011 01:22:44 AM",Level:359.56}
+# 	{CreationTime:"03/2/2011 01:22:44 AM",Level:352.12}
+# 	{CreationTime:"03/1/2011 01:22:44 AM",Level:349.31}
+# 	{CreationTime:"02/28/2011 01:22:44 AM",Level:353.21}
+# 	{CreationTime:"02/25/2011 01:22:44 AM",Level:348.16}
+# 	{CreationTime:"02/24/2011 01:22:44 AM",Level:342.88}
+# 	{CreationTime:"02/23/2011 01:22:44 AM",Level:342.62}
+# 	{CreationTime:"02/22/2011 01:22:44 AM",Level:338.61}
+# 	{CreationTime:"02/18/2011 01:22:44 AM",Level:350.56}
+# 	{CreationTime:"02/17/2011 01:22:44 AM",Level:358.30}
+# 	{CreationTime:"02/16/2011 01:22:44 AM",Level:363.13}
+# 	{CreationTime:"02/15/2011 01:22:44 AM",Level:359.90}
+# 	{CreationTime:"02/14/2011 01:22:44 AM",Level:359.18}
+# 	{CreationTime:"02/11/2011 01:22:44 AM",Level:356.85}
+# 	{CreationTime:"02/10/2011 01:22:44 AM",Level:354.54}
+# 	{CreationTime:"02/9/2011 01:22:44 AM",Level:358.16}
+# 	{CreationTime:"02/8/2011 01:22:44 AM",Level:355.20}
+# 	{CreationTime:"02/7/2011 01:22:44 AM",Level:351.88}
+# 	{CreationTime:"02/4/2011 01:22:44 AM",Level:346.50}
+# 	{CreationTime:"02/3/2011 01:22:44 AM",Level:343.44}
+# 	{CreationTime:"02/2/2011 01:22:44 AM",Level:344.32}
+# 	{CreationTime:"02/1/2011 01:22:44 AM",Level:345.03}
+# 	{CreationTime:"01/31/2011 01:22:44 AM",Level:339.32}
+# 	{CreationTime:"01/28/2011 01:22:44 AM",Level:336.10}
+# 	{CreationTime:"01/27/2011 01:22:44 AM",Level:343.21}
+# 	{CreationTime:"01/26/2011 01:22:44 AM",Level:343.85}
+# 	{CreationTime:"01/25/2011 01:22:44 AM",Level:341.40}
+# 	{CreationTime:"01/24/2011 01:22:44 AM",Level:337.45}
+# 	{CreationTime:"01/21/2011 01:22:44 AM",Level:326.72}
+# 	{CreationTime:"01/20/2011 01:22:44 AM",Level:332.68}
+# 	{CreationTime:"01/19/2011 01:22:44 AM",Level:338.84}
+# 	{CreationTime:"01/18/2011 01:22:44 AM",Level:340.65}
+# 	{CreationTime:"01/14/2011 01:22:44 AM",Level:348.48}
+# 	{CreationTime:"01/13/2011 01:22:44 AM",Level:345.68}
+# 	{CreationTime:"01/12/2011 01:22:44 AM",Level:344.42}
+# 	{CreationTime:"01/11/2011 01:22:44 AM",Level:341.64}
+# 	{CreationTime:"01/10/2011 01:22:44 AM",Level:342.46}
+# 	{CreationTime:"01/7/2011 01:22:44 AM",Level:336.12}
+# 	{CreationTime:"01/6/2011 01:22:44 AM",Level:333.73}
+# 	{CreationTime:"01/5/2011 01:22:44 AM",Level:334.00}
+# 	{CreationTime:"01/4/2011 01:22:44 AM",Level:331.29}
+# 	{CreationTime:"01/3/2011 01:22:44 AM",Level:329.57}
+# 	{CreationTime:"12/31/2010 01:22:44 AM",Level:322.56}
+# 	{CreationTime:"12/30/2010 01:22:44 AM",Level:323.66}
+# 	{CreationTime:"12/29/2010 01:22:44 AM",Level:325.29}
+# 	{CreationTime:"12/28/2010 01:22:44 AM",Level:325.47}
+# 	{CreationTime:"12/27/2010 01:22:44 AM",Level:324.68}
+# 	{CreationTime:"12/23/2010 01:22:44 AM",Level:323.60}
+# 	{CreationTime:"12/22/2010 01:22:44 AM",Level:325.16}
+# 	{CreationTime:"12/21/2010 01:22:44 AM",Level:324.20}
+# 	{CreationTime:"12/20/2010 01:22:44 AM",Level:322.21}
+# 	{CreationTime:"12/17/2010 01:22:44 AM",Level:320.61}
+# 	{CreationTime:"12/16/2010 01:22:44 AM",Level:321.25}
+# 	{CreationTime:"12/15/2010 01:22:44 AM",Level:320.36}
+# 	{CreationTime:"12/14/2010 01:22:44 AM",Level:320.29}
+# 	{CreationTime:"12/13/2010 01:22:44 AM",Level:321.67}
+# 	{CreationTime:"12/10/2010 01:22:44 AM",Level:320.56}
+# 	{CreationTime:"12/9/2010 01:22:44 AM",Level:319.76}
+# 	{CreationTime:"12/8/2010 01:22:44 AM",Level:321.01}
+# 	{CreationTime:"12/7/2010 01:22:44 AM",Level:318.21}
+# 	{CreationTime:"12/6/2010 01:22:44 AM",Level:320.15}
+# 	{CreationTime:"12/3/2010 01:22:44 AM",Level:317.44}
+# 	{CreationTime:"12/2/2010 01:22:44 AM",Level:318.15}
+# 	{CreationTime:"12/1/2010 01:22:44 AM",Level:316.40}
+# 	{CreationTime:"11/30/2010 01:22:44 AM",Level:311.15}
+# 	{CreationTime:"11/29/2010 01:22:44 AM",Level:316.87}
+# 	{CreationTime:"11/26/2010 01:22:44 AM",Level:315.00}
+# 	{CreationTime:"11/24/2010 01:22:44 AM",Level:314.80}
+# 	{CreationTime:"11/23/2010 01:22:44 AM",Level:308.73}
+# 	{CreationTime:"11/22/2010 01:22:44 AM",Level:313.36}
+# 	{CreationTime:"11/19/2010 01:22:44 AM",Level:306.73}
+# 	{CreationTime:"11/18/2010 01:22:44 AM",Level:308.43}
+# 	{CreationTime:"11/17/2010 01:22:44 AM",Level:300.50}
+# 	{CreationTime:"11/16/2010 01:22:44 AM",Level:301.59}
+# 	{CreationTime:"11/15/2010 01:22:44 AM",Level:307.04}
+# 	{CreationTime:"11/12/2010 01:22:44 AM",Level:308.03}
+# 	{CreationTime:"11/11/2010 01:22:44 AM",Level:316.66}
+# 	{CreationTime:"11/10/2010 01:22:44 AM",Level:318.03}
+# 	{CreationTime:"11/9/2010 01:22:44 AM",Level:316.08}
+# 	{CreationTime:"11/8/2010 01:22:44 AM",Level:318.62}
+# 	{CreationTime:"11/5/2010 01:22:44 AM",Level:317.13}
+# 	{CreationTime:"11/4/2010 01:22:44 AM",Level:318.27}
+# 	{CreationTime:"11/3/2010 01:22:44 AM",Level:312.80}
+# 	{CreationTime:"11/2/2010 01:22:44 AM",Level:309.36}
+# 	{CreationTime:"11/1/2010 01:22:44 AM",Level:304.18}
+# 	{CreationTime:"10/29/2010 01:22:44 AM",Level:300.98}
+# 	{CreationTime:"10/28/2010 01:22:44 AM",Level:305.24}
+# 	{CreationTime:"10/27/2010 01:22:44 AM",Level:307.83}
+# 	{CreationTime:"10/26/2010 01:22:44 AM",Level:308.05}
+# 	{CreationTime:"10/25/2010 01:22:44 AM",Level:308.84}
+# 	{CreationTime:"10/22/2010 01:22:44 AM",Level:307.47}
+# 	{CreationTime:"10/21/2010 01:22:44 AM",Level:309.52}
+# 	{CreationTime:"10/20/2010 01:22:44 AM",Level:310.53}
+# 	{CreationTime:"10/19/2010 01:22:44 AM",Level:309.49}
+# 	{CreationTime:"10/18/2010 01:22:44 AM",Level:318.00}
+# 	{CreationTime:"10/15/2010 01:22:44 AM",Level:314.74}
+# 	{CreationTime:"10/14/2010 01:22:44 AM",Level:302.31}
+# 	{CreationTime:"10/13/2010 01:22:44 AM",Level:300.14}
+# 	{CreationTime:"10/12/2010 01:22:44 AM",Level:298.54}
+# 	{CreationTime:"10/11/2010 01:22:44 AM",Level:295.36}
+# 	{CreationTime:"10/8/2010 01:22:44 AM",Level:294.07}
+# 	{CreationTime:"10/7/2010 01:22:44 AM",Level:289.22}
+# 	{CreationTime:"10/6/2010 01:22:44 AM",Level:289.19}
+# 	{CreationTime:"10/5/2010 01:22:44 AM",Level:288.94}
+# 	{CreationTime:"10/4/2010 01:22:44 AM",Level:278.64}
+# 	{CreationTime:"10/1/2010 01:22:44 AM",Level:282.52}
+# 	{CreationTime:"09/30/2010 01:22:44 AM",Level:283.75}
+# 	{CreationTime:"09/29/2010 01:22:44 AM",Level:287.37}
+# 	{CreationTime:"09/28/2010 01:22:44 AM",Level:286.86}
+# 	{CreationTime:"09/27/2010 01:22:44 AM",Level:291.16}
+# 	{CreationTime:"09/24/2010 01:22:44 AM",Level:292.32}
+# 	{CreationTime:"09/23/2010 01:22:44 AM",Level:288.92}
+# 	{CreationTime:"09/22/2010 01:22:44 AM",Level:287.75}
+# 	{CreationTime:"09/21/2010 01:22:44 AM",Level:283.77}
+# 	{CreationTime:"09/20/2010 01:22:44 AM",Level:283.23}
+# 	{CreationTime:"09/17/2010 01:22:44 AM",Level:275.37}
+# 	{CreationTime:"09/16/2010 01:22:44 AM",Level:276.57}
+# 	{CreationTime:"09/15/2010 01:22:44 AM",Level:270.22}
+# 	{CreationTime:"09/14/2010 01:22:44 AM",Level:268.06}
+# 	{CreationTime:"09/13/2010 01:22:44 AM",Level:267.04}
+# 	{CreationTime:"09/10/2010 01:22:44 AM",Level:263.41}
+# 	{CreationTime:"09/9/2010 01:22:44 AM",Level:263.07}
+# 	{CreationTime:"09/8/2010 01:22:44 AM",Level:262.92}
+# 	{CreationTime:"09/7/2010 01:22:44 AM",Level:257.81}
+# 	{CreationTime:"09/6/2010 01:22:44 AM",Level:258.77}
+# 	{CreationTime:"09/3/2010 01:22:44 AM",Level:258.77}
+# 	{CreationTime:"09/2/2010 01:22:44 AM",Level:252.17}
+# 	{CreationTime:"09/1/2010 01:22:44 AM",Level:250.33}
+# 	{CreationTime:"08/31/2010 01:22:44 AM",Level:243.10}
+# 	{CreationTime:"08/30/2010 01:22:44 AM",Level:242.50}
+# 	{CreationTime:"08/27/2010 01:22:44 AM",Level:241.62}
+# 	{CreationTime:"08/26/2010 01:22:44 AM",Level:240.28}
+# 	{CreationTime:"08/25/2010 01:22:44 AM",Level:242.89}
+# 	{CreationTime:"08/24/2010 01:22:44 AM",Level:239.93}
+# 	{CreationTime:"08/23/2010 01:22:44 AM",Level:245.80}
+# 	{CreationTime:"08/20/2010 01:22:44 AM",Level:249.64}
+# 	{CreationTime:"08/19/2010 01:22:44 AM",Level:249.88}
+# 	{CreationTime:"08/18/2010 01:22:44 AM",Level:253.07}
+# 	{CreationTime:"08/17/2010 01:22:44 AM",Level:251.97}
+# 	{CreationTime:"08/16/2010 01:22:44 AM",Level:247.64}
+# 	{CreationTime:"08/13/2010 01:22:44 AM",Level:249.10}
+# 	{CreationTime:"08/12/2010 01:22:44 AM",Level:251.79}
+# 	{CreationTime:"08/11/2010 01:22:44 AM",Level:250.19}
+# 	{CreationTime:"08/10/2010 01:22:44 AM",Level:259.41}
+# 	{CreationTime:"08/9/2010 01:22:44 AM",Level:261.75}
+# 	{CreationTime:"08/6/2010 01:22:44 AM",Level:260.09}
+# 	{CreationTime:"08/5/2010 01:22:44 AM",Level:261.70}
+# 	{CreationTime:"08/4/2010 01:22:44 AM",Level:262.98}
+# 	{CreationTime:"08/3/2010 01:22:44 AM",Level:261.93}
+# 	{CreationTime:"08/2/2010 01:22:44 AM",Level:261.85}
+# 	{CreationTime:"07/30/2010 01:22:44 AM",Level:257.25}
+# 	{CreationTime:"07/29/2010 01:22:44 AM",Level:258.11}
+# 	{CreationTime:"07/28/2010 01:22:44 AM",Level:260.96}
+# 	{CreationTime:"07/27/2010 01:22:44 AM",Level:264.08}
+# 	{CreationTime:"07/26/2010 01:22:44 AM",Level:259.28}
+# 	{CreationTime:"07/23/2010 01:22:44 AM",Level:259.94}
+# 	{CreationTime:"07/22/2010 01:22:44 AM",Level:259.02}
+# 	{CreationTime:"07/21/2010 01:22:44 AM",Level:254.24}
+# 	{CreationTime:"07/20/2010 01:22:44 AM",Level:251.89}
+# 	{CreationTime:"07/19/2010 01:22:44 AM",Level:245.58}
+# 	{CreationTime:"07/16/2010 01:22:44 AM",Level:249.90}
+# 	{CreationTime:"07/15/2010 01:22:44 AM",Level:251.45}
+# 	{CreationTime:"07/14/2010 01:22:44 AM",Level:252.73}
+# 	{CreationTime:"07/13/2010 01:22:44 AM",Level:251.80}
+# 	{CreationTime:"07/12/2010 01:22:44 AM",Level:257.28}
+# 	{CreationTime:"07/9/2010 01:22:44 AM",Level:259.62}
+# 	{CreationTime:"07/8/2010 01:22:44 AM",Level:258.09}
+# 	{CreationTime:"07/7/2010 01:22:44 AM",Level:258.66}
+# 	{CreationTime:"07/6/2010 01:22:44 AM",Level:248.63}
+# 	{CreationTime:"07/5/2010 01:22:44 AM",Level:246.94}
+# 	{CreationTime:"07/2/2010 01:22:44 AM",Level:246.94}
+# 	{CreationTime:"07/1/2010 01:22:44 AM",Level:248.48}
+# 	{CreationTime:"06/30/2010 01:22:44 AM",Level:251.53}
+# 	{CreationTime:"06/29/2010 01:22:44 AM",Level:256.17}
+# 	{CreationTime:"06/28/2010 01:22:44 AM",Level:268.30}
+# 	{CreationTime:"06/25/2010 01:22:44 AM",Level:266.70}
+# 	{CreationTime:"06/24/2010 01:22:44 AM",Level:269.00}
+# 	{CreationTime:"06/23/2010 01:22:44 AM",Level:270.97}
+# 	{CreationTime:"06/22/2010 01:22:44 AM",Level:273.85}
+# 	{CreationTime:"06/21/2010 01:22:44 AM",Level:270.17}
+# 	{CreationTime:"06/18/2010 01:22:44 AM",Level:274.07}
+# 	{CreationTime:"06/17/2010 01:22:44 AM",Level:271.87}
+# 	{CreationTime:"06/16/2010 01:22:44 AM",Level:267.25}
+# 	{CreationTime:"06/15/2010 01:22:44 AM",Level:259.69}
+# 	{CreationTime:"06/14/2010 01:22:44 AM",Level:254.28}
+# 	{CreationTime:"06/11/2010 01:22:44 AM",Level:253.51}
+# 	{CreationTime:"06/10/2010 01:22:44 AM",Level:250.51}
+# 	{CreationTime:"06/9/2010 01:22:44 AM",Level:243.20}
+# 	{CreationTime:"06/8/2010 01:22:44 AM",Level:249.33}
+# 	{CreationTime:"06/7/2010 01:22:44 AM",Level:250.94}
+# 	{CreationTime:"06/4/2010 01:22:44 AM",Level:255.96}
+# 	{CreationTime:"06/3/2010 01:22:44 AM",Level:263.12}
+# 	{CreationTime:"06/2/2010 01:22:44 AM",Level:263.95}
+# 	{CreationTime:"06/1/2010 01:22:44 AM",Level:260.83}
+# 	{CreationTime:"05/31/2010 01:22:44 AM",Level:256.88}
+# 	{CreationTime:"05/28/2010 01:22:44 AM",Level:256.88}
+# 	{CreationTime:"05/27/2010 01:22:44 AM",Level:253.35}
+# 	{CreationTime:"05/26/2010 01:22:44 AM",Level:244.11}
+# 	{CreationTime:"05/25/2010 01:22:44 AM",Level:245.22}
+# 	{CreationTime:"05/24/2010 01:22:44 AM",Level:246.76}
+# 	{CreationTime:"05/21/2010 01:22:44 AM",Level:242.32}
+# 	{CreationTime:"05/20/2010 01:22:44 AM",Level:237.76}
+# 	{CreationTime:"05/19/2010 01:22:44 AM",Level:248.34}
+# 	{CreationTime:"05/18/2010 01:22:44 AM",Level:252.36}
+# 	{CreationTime:"05/17/2010 01:22:44 AM",Level:254.22}
+# 	{CreationTime:"05/14/2010 01:22:44 AM",Level:253.82}
+# 	{CreationTime:"05/13/2010 01:22:44 AM",Level:258.36}
+# 	{CreationTime:"05/12/2010 01:22:44 AM",Level:262.09}
+# 	{CreationTime:"05/11/2010 01:22:44 AM",Level:256.52}
+# 	{CreationTime:"05/10/2010 01:22:44 AM",Level:253.99}
+# 	{CreationTime:"05/7/2010 01:22:44 AM",Level:235.86}
+# 	{CreationTime:"05/6/2010 01:22:44 AM",Level:246.25}
+# 	{CreationTime:"05/5/2010 01:22:44 AM",Level:255.98}
+# 	{CreationTime:"05/4/2010 01:22:44 AM",Level:258.68}
+# 	{CreationTime:"05/3/2010 01:22:44 AM",Level:266.35}
+# 	{CreationTime:"04/30/2010 01:22:44 AM",Level:261.09}
+# 	{CreationTime:"04/29/2010 01:22:44 AM",Level:268.64}
+# 	{CreationTime:"04/28/2010 01:22:44 AM",Level:261.60}
+# 	{CreationTime:"04/27/2010 01:22:44 AM",Level:262.04}
+# 	{CreationTime:"04/26/2010 01:22:44 AM",Level:269.50}
+# 	{CreationTime:"04/23/2010 01:22:44 AM",Level:270.83}
+# 	{CreationTime:"04/22/2010 01:22:44 AM",Level:266.47}
+# 	{CreationTime:"04/21/2010 01:22:44 AM",Level:259.22}
+# 	{CreationTime:"04/20/2010 01:22:44 AM",Level:244.59}
+# 	{CreationTime:"04/19/2010 01:22:44 AM",Level:247.07}
+# 	{CreationTime:"04/16/2010 01:22:44 AM",Level:247.40}
+# 	{CreationTime:"04/15/2010 01:22:44 AM",Level:248.92}
+# 	{CreationTime:"04/14/2010 01:22:44 AM",Level:245.69}
+# 	{CreationTime:"04/13/2010 01:22:44 AM",Level:242.43}
+# 	{CreationTime:"04/12/2010 01:22:44 AM",Level:242.29}
+# 	{CreationTime:"04/9/2010 01:22:44 AM",Level:241.79}
+# 	{CreationTime:"04/8/2010 01:22:44 AM",Level:239.95}
+# 	{CreationTime:"04/7/2010 01:22:44 AM",Level:240.60}
+# 	{CreationTime:"04/6/2010 01:22:44 AM",Level:239.54}
+# 	{CreationTime:"04/5/2010 01:22:44 AM",Level:238.49}
+# 	{CreationTime:"04/2/2010 01:22:44 AM",Level:235.97}
+# 	{CreationTime:"04/1/2010 01:22:44 AM",Level:235.97}
+# 	{CreationTime:"03/31/2010 01:22:44 AM",Level:235.00}
+# 	{CreationTime:"03/30/2010 01:22:44 AM",Level:235.84}
+# 	{CreationTime:"03/29/2010 01:22:44 AM",Level:232.39}
+# 	{CreationTime:"03/26/2010 01:22:44 AM",Level:230.90}
+# 	{CreationTime:"03/25/2010 01:22:44 AM",Level:226.65}
+# 	{CreationTime:"03/24/2010 01:22:44 AM",Level:229.37}
+# 	{CreationTime:"03/23/2010 01:22:44 AM",Level:228.36}
+# 	{CreationTime:"03/22/2010 01:22:44 AM",Level:224.75}
+# 	{CreationTime:"03/19/2010 01:22:44 AM",Level:222.25}
+# 	{CreationTime:"03/18/2010 01:22:44 AM",Level:224.65}
+# 	{CreationTime:"03/17/2010 01:22:44 AM",Level:224.12}
+# 	{CreationTime:"03/16/2010 01:22:44 AM",Level:224.45}
+# 	{CreationTime:"03/15/2010 01:22:44 AM",Level:223.84}
+# 	{CreationTime:"03/12/2010 01:22:44 AM",Level:226.60}
+# 	{CreationTime:"03/11/2010 01:22:44 AM",Level:225.50}
+# 	{CreationTime:"03/10/2010 01:22:44 AM",Level:224.84}
+# 	{CreationTime:"03/9/2010 01:22:44 AM",Level:223.02}
+# 	{CreationTime:"03/8/2010 01:22:44 AM",Level:219.08}
+# 	{CreationTime:"03/5/2010 01:22:44 AM",Level:218.95}
+# 	{CreationTime:"03/4/2010 01:22:44 AM",Level:210.71}
+# 	{CreationTime:"03/3/2010 01:22:44 AM",Level:209.33}
+# 	{CreationTime:"03/2/2010 01:22:44 AM",Level:208.85}
+# 	{CreationTime:"03/1/2010 01:22:44 AM",Level:208.99}
+# 	{CreationTime:"02/26/2010 01:22:44 AM",Level:204.62}
+# 	{CreationTime:"02/25/2010 01:22:44 AM",Level:202.00}
+# 	{CreationTime:"02/24/2010 01:22:44 AM",Level:200.66}
+# 	{CreationTime:"02/23/2010 01:22:44 AM",Level:197.06}
+# 	{CreationTime:"02/22/2010 01:22:44 AM",Level:200.42}
+# 	{CreationTime:"02/19/2010 01:22:44 AM",Level:201.67}
+# 	{CreationTime:"02/18/2010 01:22:44 AM",Level:202.93}
+# 	{CreationTime:"02/17/2010 01:22:44 AM",Level:202.55}
+# 	{CreationTime:"02/16/2010 01:22:44 AM",Level:203.40}
+# 	{CreationTime:"02/15/2010 01:22:44 AM",Level:200.38}
+# 	{CreationTime:"02/12/2010 01:22:44 AM",Level:200.38}
+# 	{CreationTime:"02/11/2010 01:22:44 AM",Level:198.67}
+# 	{CreationTime:"02/10/2010 01:22:44 AM",Level:195.12}
+# 	{CreationTime:"02/9/2010 01:22:44 AM",Level:196.19}
+# 	{CreationTime:"02/8/2010 01:22:44 AM",Level:194.12}
+# 	{CreationTime:"02/5/2010 01:22:44 AM",Level:195.46}
+# 	{CreationTime:"02/4/2010 01:22:44 AM",Level:192.05}
+# 	{CreationTime:"02/3/2010 01:22:44 AM",Level:199.23}
+# 	{CreationTime:"02/2/2010 01:22:44 AM",Level:195.86}
+# 	{CreationTime:"02/1/2010 01:22:44 AM",Level:194.73}
+# 	{CreationTime:"01/29/2010 01:22:44 AM",Level:192.06}
+# 	{CreationTime:"01/28/2010 01:22:44 AM",Level:199.29}
+# 	{CreationTime:"01/27/2010 01:22:44 AM",Level:207.88}
+# 	{CreationTime:"01/26/2010 01:22:44 AM",Level:205.94}
+# 	{CreationTime:"01/25/2010 01:22:44 AM",Level:203.08}
+# 	{CreationTime:"01/22/2010 01:22:44 AM",Level:197.75}
+# 	{CreationTime:"01/21/2010 01:22:44 AM",Level:208.07}
+# 	{CreationTime:"01/20/2010 01:22:44 AM",Level:211.72}
+# 	{CreationTime:"01/19/2010 01:22:44 AM",Level:215.04}
+# 	{CreationTime:"01/18/2010 01:22:44 AM",Level:205.93}
+# 	{CreationTime:"01/15/2010 01:22:44 AM",Level:205.93}
+# 	{CreationTime:"01/14/2010 01:22:44 AM",Level:209.43}
+# 	{CreationTime:"01/13/2010 01:22:44 AM",Level:210.65}
+# 	{CreationTime:"01/12/2010 01:22:44 AM",Level:207.72}
+# 	{CreationTime:"01/11/2010 01:22:44 AM",Level:210.11}
+# 	{CreationTime:"01/8/2010 01:22:44 AM",Level:211.98}
+# 	{CreationTime:"01/7/2010 01:22:44 AM",Level:210.58}
+# 	{CreationTime:"01/6/2010 01:22:44 AM",Level:210.97}
+# 	{CreationTime:"01/5/2010 01:22:44 AM",Level:214.38}
+# 	{CreationTime:"01/4/2010 01:22:44 AM",Level:214.01}
+# 	{CreationTime:"01/1/2010 01:22:44 AM",Level:210.73}
+# 	{CreationTime:"12/31/2009 01:22:44 AM",Level:210.73}
+# 	{CreationTime:"12/30/2009 01:22:44 AM",Level:211.64}
+# 	{CreationTime:"12/29/2009 01:22:44 AM",Level:209.10}
+# 	{CreationTime:"12/28/2009 01:22:44 AM",Level:211.61}
+# 	{CreationTime:"12/25/2009 01:22:44 AM",Level:209.04}
+# 	{CreationTime:"12/24/2009 01:22:44 AM",Level:209.04}
+# 	{CreationTime:"12/23/2009 01:22:44 AM",Level:202.10}
+# 	{CreationTime:"12/22/2009 01:22:44 AM",Level:200.36}
+# 	{CreationTime:"12/21/2009 01:22:44 AM",Level:198.23}
+# 	{CreationTime:"12/18/2009 01:22:44 AM",Level:195.43}
+# 	{CreationTime:"12/17/2009 01:22:44 AM",Level:191.86}
+# 	{CreationTime:"12/16/2009 01:22:44 AM",Level:195.03}
+# 	{CreationTime:"12/15/2009 01:22:44 AM",Level:194.17}
+# 	{CreationTime:"12/14/2009 01:22:44 AM",Level:196.98}
+# 	{CreationTime:"12/11/2009 01:22:44 AM",Level:194.67}
+# 	{CreationTime:"12/10/2009 01:22:44 AM",Level:196.43}
+# 	{CreationTime:"12/9/2009 01:22:44 AM",Level:197.80}
+# 	{CreationTime:"12/8/2009 01:22:44 AM",Level:189.87}
+# 	{CreationTime:"12/7/2009 01:22:44 AM",Level:188.95}
+# 	{CreationTime:"12/4/2009 01:22:44 AM",Level:193.32}
+# 	{CreationTime:"12/3/2009 01:22:44 AM",Level:196.48}
+# 	{CreationTime:"12/2/2009 01:22:44 AM",Level:196.23}
+# 	{CreationTime:"12/1/2009 01:22:44 AM",Level:196.97}
+# 	{CreationTime:"11/30/2009 01:22:44 AM",Level:199.91}
+# 	{CreationTime:"11/27/2009 01:22:44 AM",Level:200.59}
+# 	{CreationTime:"11/26/2009 01:22:44 AM",Level:204.19}
+# 	{CreationTime:"11/25/2009 01:22:44 AM",Level:204.19}
+# 	{CreationTime:"11/24/2009 01:22:44 AM",Level:204.44}
+# 	{CreationTime:"11/23/2009 01:22:44 AM",Level:205.88}
+# 	{CreationTime:"11/20/2009 01:22:44 AM",Level:199.92}
+# 	{CreationTime:"11/19/2009 01:22:44 AM",Level:200.51}
+# 	{CreationTime:"11/18/2009 01:22:44 AM",Level:205.96}
+# 	{CreationTime:"11/17/2009 01:22:44 AM",Level:207.00}
+# 	{CreationTime:"11/16/2009 01:22:44 AM",Level:206.63}
+# 	{CreationTime:"11/13/2009 01:22:44 AM",Level:204.45}
+# 	{CreationTime:"11/12/2009 01:22:44 AM",Level:201.99}
+# 	{CreationTime:"11/11/2009 01:22:44 AM",Level:203.25}
+# 	{CreationTime:"11/10/2009 01:22:44 AM",Level:202.98}
+# 	{CreationTime:"11/9/2009 01:22:44 AM",Level:201.46}
+# 	{CreationTime:"11/6/2009 01:22:44 AM",Level:194.34}
+# 	{CreationTime:"11/5/2009 01:22:44 AM",Level:194.03}
+# 	{CreationTime:"11/4/2009 01:22:44 AM",Level:190.81}
+# 	{CreationTime:"11/3/2009 01:22:44 AM",Level:188.75}
+# 	{CreationTime:"11/2/2009 01:22:44 AM",Level:189.31}
+# 	{CreationTime:"10/30/2009 01:22:44 AM",Level:188.50}
+# 	{CreationTime:"10/29/2009 01:22:44 AM",Level:196.35}
+# 	{CreationTime:"10/28/2009 01:22:44 AM",Level:192.40}
+# 	{CreationTime:"10/27/2009 01:22:44 AM",Level:197.37}
+# 	{CreationTime:"10/26/2009 01:22:44 AM",Level:202.48}
+# 	{CreationTime:"10/23/2009 01:22:44 AM",Level:203.94}
+# 	{CreationTime:"10/22/2009 01:22:44 AM",Level:205.20}
+# 	{CreationTime:"10/21/2009 01:22:44 AM",Level:204.92}
+# 	{CreationTime:"10/20/2009 01:22:44 AM",Level:198.76}
+# 	{CreationTime:"10/19/2009 01:22:44 AM",Level:189.86}
+# 	{CreationTime:"10/16/2009 01:22:44 AM",Level:188.05}
+# 	{CreationTime:"10/15/2009 01:22:44 AM",Level:190.56}
+# 	{CreationTime:"10/14/2009 01:22:44 AM",Level:191.29}
+# 	{CreationTime:"10/13/2009 01:22:44 AM",Level:190.02}
+# 	{CreationTime:"10/12/2009 01:22:44 AM",Level:190.81}
+# 	{CreationTime:"10/9/2009 01:22:44 AM",Level:190.47}
+# 	{CreationTime:"10/8/2009 01:22:44 AM",Level:189.27}
+# 	{CreationTime:"10/7/2009 01:22:44 AM",Level:190.25}
+# 	{CreationTime:"10/6/2009 01:22:44 AM",Level:190.01}
+# 	{CreationTime:"10/5/2009 01:22:44 AM",Level:186.02}
+# 	{CreationTime:"10/2/2009 01:22:44 AM",Level:184.90}
+# 	{CreationTime:"10/1/2009 01:22:44 AM",Level:180.86}
+# 	{CreationTime:"09/30/2009 01:22:44 AM",Level:185.35}
+# 	{CreationTime:"09/29/2009 01:22:44 AM",Level:185.38}
+# 	{CreationTime:"09/28/2009 01:22:44 AM",Level:186.15}
+# 	{CreationTime:"09/25/2009 01:22:44 AM",Level:182.37}
+# 	{CreationTime:"09/24/2009 01:22:44 AM",Level:183.82}
+# 	{CreationTime:"09/23/2009 01:22:44 AM",Level:185.50}
+# 	{CreationTime:"09/22/2009 01:22:44 AM",Level:184.48}
+# 	{CreationTime:"09/21/2009 01:22:44 AM",Level:184.02}
+# 	{CreationTime:"09/18/2009 01:22:44 AM",Level:185.02}
+# 	{CreationTime:"09/17/2009 01:22:44 AM",Level:184.55}
+# 	{CreationTime:"09/16/2009 01:22:44 AM",Level:181.87}
+# 	{CreationTime:"09/15/2009 01:22:44 AM",Level:175.16}
+# 	{CreationTime:"09/14/2009 01:22:44 AM",Level:173.72}
+# 	{CreationTime:"09/11/2009 01:22:44 AM",Level:172.16}
+# 	{CreationTime:"09/10/2009 01:22:44 AM",Level:172.56}
+# 	{CreationTime:"09/9/2009 01:22:44 AM",Level:171.14}
+# 	{CreationTime:"09/8/2009 01:22:44 AM",Level:172.93}
+# 	{CreationTime:"09/4/2009 01:22:44 AM",Level:170.31}
+# 	{CreationTime:"09/3/2009 01:22:44 AM",Level:166.55}
+# 	{CreationTime:"09/2/2009 01:22:44 AM",Level:165.18}
+# 	{CreationTime:"09/1/2009 01:22:44 AM",Level:165.30}
+# 	{CreationTime:"08/31/2009 01:22:44 AM",Level:168.21}
+# 	{CreationTime:"08/28/2009 01:22:44 AM",Level:170.05}
+# 	{CreationTime:"08/27/2009 01:22:44 AM",Level:169.45}
+# 	{CreationTime:"08/26/2009 01:22:44 AM",Level:167.41}
+# 	{CreationTime:"08/25/2009 01:22:44 AM",Level:169.40}
+# 	{CreationTime:"08/24/2009 01:22:44 AM",Level:169.06}
+# 	{CreationTime:"08/21/2009 01:22:44 AM",Level:169.22}
+# 	{CreationTime:"08/20/2009 01:22:44 AM",Level:166.33}
+# 	{CreationTime:"08/19/2009 01:22:44 AM",Level:164.60}
+# 	{CreationTime:"08/18/2009 01:22:44 AM",Level:164.00}
+# 	{CreationTime:"08/17/2009 01:22:44 AM",Level:159.59}
+# 	{CreationTime:"08/14/2009 01:22:44 AM",Level:166.78}
+# 	{CreationTime:"08/13/2009 01:22:44 AM",Level:168.42}
+# 	{CreationTime:"08/12/2009 01:22:44 AM",Level:165.31}
+# 	{CreationTime:"08/10/2009 01:22:44 AM",Level:164.72}
+# 	{CreationTime:"08/7/2009 01:22:44 AM",Level:165.51}
+# 	{CreationTime:"08/6/2009 01:22:44 AM",Level:163.91}
+# 	{CreationTime:"08/5/2009 01:22:44 AM",Level:165.11}
+# 	{CreationTime:"08/4/2009 01:22:44 AM",Level:165.55}
+# 	{CreationTime:"08/3/2009 01:22:44 AM",Level:166.43}
+# 	{CreationTime:"07/31/2009 01:22:44 AM",Level:163.39}
+# 	{CreationTime:"07/30/2009 01:22:44 AM",Level:162.79}
+# 	{CreationTime:"07/29/2009 01:22:44 AM",Level:160.03}
+# 	{CreationTime:"07/28/2009 01:22:44 AM",Level:160.00}
+# 	{CreationTime:"07/27/2009 01:22:44 AM",Level:160.10}
+# 	{CreationTime:"07/24/2009 01:22:44 AM",Level:159.99}
+# 	{CreationTime:"07/23/2009 01:22:44 AM",Level:157.82}
+# 	{CreationTime:"07/22/2009 01:22:44 AM",Level:156.74}
+# 	{CreationTime:"07/21/2009 01:22:44 AM",Level:151.51}
+# 	{CreationTime:"07/20/2009 01:22:44 AM",Level:152.91}
+# 	{CreationTime:"07/17/2009 01:22:44 AM",Level:151.75}
+# 	{CreationTime:"07/16/2009 01:22:44 AM",Level:147.52}
+# 	{CreationTime:"07/15/2009 01:22:44 AM",Level:146.88}
+# 	{CreationTime:"07/14/2009 01:22:44 AM",Level:142.27}
+# 	{CreationTime:"07/13/2009 01:22:44 AM",Level:142.34}
+# 	{CreationTime:"07/10/2009 01:22:44 AM",Level:138.52}
+# 	{CreationTime:"07/9/2009 01:22:44 AM",Level:136.36}
+# 	{CreationTime:"07/8/2009 01:22:44 AM",Level:137.22}
+# 	{CreationTime:"07/7/2009 01:22:44 AM",Level:135.40}
+# 	{CreationTime:"07/6/2009 01:22:44 AM",Level:138.61}
+# 	{CreationTime:"07/3/2009 01:22:44 AM",Level:140.02}
+# 	{CreationTime:"07/2/2009 01:22:44 AM",Level:140.02}
+# 	{CreationTime:"07/1/2009 01:22:44 AM",Level:142.83}
+# 	{CreationTime:"06/30/2009 01:22:44 AM",Level:142.43}
+# 	{CreationTime:"06/29/2009 01:22:44 AM",Level:141.97}
+# 	{CreationTime:"06/26/2009 01:22:44 AM",Level:142.44}
+# 	{CreationTime:"06/25/2009 01:22:44 AM",Level:139.86}
+# 	{CreationTime:"06/24/2009 01:22:44 AM",Level:136.22}
+# 	{CreationTime:"06/23/2009 01:22:44 AM",Level:134.01}
+# 	{CreationTime:"06/22/2009 01:22:44 AM",Level:137.37}
+# 	{CreationTime:"06/19/2009 01:22:44 AM",Level:139.48}
+# 	{CreationTime:"06/18/2009 01:22:44 AM",Level:135.88}
+# 	{CreationTime:"06/17/2009 01:22:44 AM",Level:135.58}
+# 	{CreationTime:"06/16/2009 01:22:44 AM",Level:136.35}
+# 	{CreationTime:"06/15/2009 01:22:44 AM",Level:136.09}
+# 	{CreationTime:"06/12/2009 01:22:44 AM",Level:136.97}
+# 	{CreationTime:"06/11/2009 01:22:44 AM",Level:139.95}
+# 	{CreationTime:"06/10/2009 01:22:44 AM",Level:140.25}
+# 	{CreationTime:"06/9/2009 01:22:44 AM",Level:142.72}
+# 	{CreationTime:"06/8/2009 01:22:44 AM",Level:143.85}
+# 	{CreationTime:"06/5/2009 01:22:44 AM",Level:144.67}
+# 	{CreationTime:"06/4/2009 01:22:44 AM",Level:143.74}
+# 	{CreationTime:"06/3/2009 01:22:44 AM",Level:140.95}
+# 	{CreationTime:"06/2/2009 01:22:44 AM",Level:139.49}
+# 	{CreationTime:"06/1/2009 01:22:44 AM",Level:139.35}
+# 	{CreationTime:"05/29/2009 01:22:44 AM",Level:135.81}
+# 	{CreationTime:"05/28/2009 01:22:44 AM",Level:135.07}
+# 	{CreationTime:"05/27/2009 01:22:44 AM",Level:133.05}
+# 	{CreationTime:"05/26/2009 01:22:44 AM",Level:130.78}
+# 	{CreationTime:"05/22/2009 01:22:44 AM",Level:122.50}
+# 	{CreationTime:"05/21/2009 01:22:44 AM",Level:124.18}
+# 	{CreationTime:"05/20/2009 01:22:44 AM",Level:125.87}
+# 	{CreationTime:"05/19/2009 01:22:44 AM",Level:127.45}
+# 	{CreationTime:"05/18/2009 01:22:44 AM",Level:126.65}
+# 	{CreationTime:"05/15/2009 01:22:44 AM",Level:122.42}
+# 	{CreationTime:"05/14/2009 01:22:44 AM",Level:122.95}
+# 	{CreationTime:"05/13/2009 01:22:44 AM",Level:119.49}
+# 	{CreationTime:"05/12/2009 01:22:44 AM",Level:124.42}
+# 	{CreationTime:"05/11/2009 01:22:44 AM",Level:129.57}
+# 	{CreationTime:"05/8/2009 01:22:44 AM",Level:129.19}
+# 	{CreationTime:"05/7/2009 01:22:44 AM",Level:129.06}
+# 	{CreationTime:"05/6/2009 01:22:44 AM",Level:132.50}
+# 	{CreationTime:"05/5/2009 01:22:44 AM",Level:132.71}
+# 	{CreationTime:"05/4/2009 01:22:44 AM",Level:132.07}
+# 	{CreationTime:"05/1/2009 01:22:44 AM",Level:127.24}
+# 	{CreationTime:"04/30/2009 01:22:44 AM",Level:125.83}
+# 	{CreationTime:"04/29/2009 01:22:44 AM",Level:125.14}
+# 	{CreationTime:"04/28/2009 01:22:44 AM",Level:123.90}
+# 	{CreationTime:"04/27/2009 01:22:44 AM",Level:124.73}
+# 	{CreationTime:"04/24/2009 01:22:44 AM",Level:123.90}
+# 	{CreationTime:"04/23/2009 01:22:44 AM",Level:125.40}
+# 	{CreationTime:"04/22/2009 01:22:44 AM",Level:121.51}
+# 	{CreationTime:"04/21/2009 01:22:44 AM",Level:121.76}
+# 	{CreationTime:"04/20/2009 01:22:44 AM",Level:120.50}
+# 	{CreationTime:"04/17/2009 01:22:44 AM",Level:123.42}
+# 	{CreationTime:"04/16/2009 01:22:44 AM",Level:121.45}
+# 	{CreationTime:"04/15/2009 01:22:44 AM",Level:117.64}
+# 	{CreationTime:"04/14/2009 01:22:44 AM",Level:118.31}
+# 	{CreationTime:"04/13/2009 01:22:44 AM",Level:120.22}
+# 	{CreationTime:"04/10/2009 01:22:44 AM",Level:119.57}
+# 	{CreationTime:"04/9/2009 01:22:44 AM",Level:119.57}
+# 	{CreationTime:"04/8/2009 01:22:44 AM",Level:116.32}
+# 	{CreationTime:"04/7/2009 01:22:44 AM",Level:115.00}
+# 	{CreationTime:"04/6/2009 01:22:44 AM",Level:118.45}
+# 	{CreationTime:"04/3/2009 01:22:44 AM",Level:115.99}
+# 	{CreationTime:"04/2/2009 01:22:44 AM",Level:112.71}
+# 	{CreationTime:"04/1/2009 01:22:44 AM",Level:108.69}
+# 	{CreationTime:"03/31/2009 01:22:44 AM",Level:105.12}
+# 	{CreationTime:"03/30/2009 01:22:44 AM",Level:104.49}
+# 	{CreationTime:"03/27/2009 01:22:44 AM",Level:106.85}
+# 	{CreationTime:"03/26/2009 01:22:44 AM",Level:109.87}
+# 	{CreationTime:"03/25/2009 01:22:44 AM",Level:106.49}
+# 	{CreationTime:"03/24/2009 01:22:44 AM",Level:106.50}
+# 	{CreationTime:"03/23/2009 01:22:44 AM",Level:107.66}
+# 	{CreationTime:"03/20/2009 01:22:44 AM",Level:101.59}
+# 	{CreationTime:"03/19/2009 01:22:44 AM",Level:101.62}
+# 	{CreationTime:"03/18/2009 01:22:44 AM",Level:101.52}
+# 	{CreationTime:"03/17/2009 01:22:44 AM",Level:99.66}
+# 	{CreationTime:"03/16/2009 01:22:44 AM",Level:95.42}
+# 	{CreationTime:"03/13/2009 01:22:44 AM",Level:95.93}
+# 	{CreationTime:"03/12/2009 01:22:44 AM",Level:96.35}
+# 	{CreationTime:"03/11/2009 01:22:44 AM",Level:92.68}
+# 	{CreationTime:"03/10/2009 01:22:44 AM",Level:88.63}
+# 	{CreationTime:"03/9/2009 01:22:44 AM",Level:83.11}
+# 	{CreationTime:"03/6/2009 01:22:44 AM",Level:85.30}
+# 	{CreationTime:"03/5/2009 01:22:44 AM",Level:88.84}
+# 	{CreationTime:"03/4/2009 01:22:44 AM",Level:91.17}
+# 	{CreationTime:"03/3/2009 01:22:44 AM",Level:88.37}
+# 	{CreationTime:"03/2/2009 01:22:44 AM",Level:87.94}
+# 	{CreationTime:"02/27/2009 01:22:44 AM",Level:89.31}
+# 	{CreationTime:"02/26/2009 01:22:44 AM",Level:89.19}
+# 	{CreationTime:"02/25/2009 01:22:44 AM",Level:91.16}
+# 	{CreationTime:"02/24/2009 01:22:44 AM",Level:90.25}
+# 	{CreationTime:"02/23/2009 01:22:44 AM",Level:86.95}
+# 	{CreationTime:"02/20/2009 01:22:44 AM",Level:91.20}
+# 	{CreationTime:"02/19/2009 01:22:44 AM",Level:90.64}
+# 	{CreationTime:"02/18/2009 01:22:44 AM",Level:94.37}
+# 	{CreationTime:"02/17/2009 01:22:44 AM",Level:94.53}
+# 	{CreationTime:"02/13/2009 01:22:44 AM",Level:99.16}
+# 	{CreationTime:"02/12/2009 01:22:44 AM",Level:99.27}
+# 	{CreationTime:"02/11/2009 01:22:44 AM",Level:96.82}
+# 	{CreationTime:"02/10/2009 01:22:44 AM",Level:97.83}
+# 	{CreationTime:"02/9/2009 01:22:44 AM",Level:102.51}
+# 	{CreationTime:"02/6/2009 01:22:44 AM",Level:99.72}
+# 	{CreationTime:"02/5/2009 01:22:44 AM",Level:96.46}
+# 	{CreationTime:"02/4/2009 01:22:44 AM",Level:93.55}
+# 	{CreationTime:"02/3/2009 01:22:44 AM",Level:92.98}
+# 	{CreationTime:"02/2/2009 01:22:44 AM",Level:91.51}
+# 	{CreationTime:"01/30/2009 01:22:44 AM",Level:90.13}
+# 	{CreationTime:"01/29/2009 01:22:44 AM",Level:93.00}
+# 	{CreationTime:"01/28/2009 01:22:44 AM",Level:94.20}
+# 	{CreationTime:"01/27/2009 01:22:44 AM",Level:90.73}
+# 	{CreationTime:"01/26/2009 01:22:44 AM",Level:89.64}
+# 	{CreationTime:"01/23/2009 01:22:44 AM",Level:88.36}
+# 	{CreationTime:"01/22/2009 01:22:44 AM",Level:88.36}
+# 	{CreationTime:"01/21/2009 01:22:44 AM",Level:82.83}
+# 	{CreationTime:"01/20/2009 01:22:44 AM",Level:78.20}
+# 	{CreationTime:"01/16/2009 01:22:44 AM",Level:82.33}
+# 	{CreationTime:"01/15/2009 01:22:44 AM",Level:83.38}
+# 	{CreationTime:"01/14/2009 01:22:44 AM",Level:85.33}
+# 	{CreationTime:"01/13/2009 01:22:44 AM",Level:87.71}
+# 	{CreationTime:"01/12/2009 01:22:44 AM",Level:88.66}
+# 	{CreationTime:"01/9/2009 01:22:44 AM",Level:90.58}
+# 	{CreationTime:"01/8/2009 01:22:44 AM",Level:92.70}
+# 	{CreationTime:"01/7/2009 01:22:44 AM",Level:91.01}
+# 	{CreationTime:"01/6/2009 01:22:44 AM",Level:93.02}
+# 	{CreationTime:"01/5/2009 01:22:44 AM",Level:94.58}
+# 	{CreationTime:"01/2/2009 01:22:44 AM",Level:90.75}
+# 	{CreationTime:"01/1/2009 01:22:44 AM",Level:85.35}
+# 	{CreationTime:"12/31/2008 01:22:44 AM",Level:85.35}
+# 	{CreationTime:"12/30/2008 01:22:44 AM",Level:86.29}
+# 	{CreationTime:"12/29/2008 01:22:44 AM",Level:86.61}
+# 	{CreationTime:"12/26/2008 01:22:44 AM",Level:85.81}
+# 	{CreationTime:"12/25/2008 01:22:44 AM",Level:85.04}
+# 	{CreationTime:"12/24/2008 01:22:44 AM",Level:85.04}
+# 	{CreationTime:"12/23/2008 01:22:44 AM",Level:86.38}
+# 	{CreationTime:"12/22/2008 01:22:44 AM",Level:85.74}
+# 	{CreationTime:"12/19/2008 01:22:44 AM",Level:90.00}
+# 	{CreationTime:"12/18/2008 01:22:44 AM",Level:89.43}
+# 	{CreationTime:"12/17/2008 01:22:44 AM",Level:89.16}
+# 	{CreationTime:"12/16/2008 01:22:44 AM",Level:95.43}
+# 	{CreationTime:"12/15/2008 01:22:44 AM",Level:94.75}
+# 	{CreationTime:"12/12/2008 01:22:44 AM",Level:98.27}
+# 	{CreationTime:"12/11/2008 01:22:44 AM",Level:95.00}
+# 	{CreationTime:"12/10/2008 01:22:44 AM",Level:98.21}
+# 	{CreationTime:"12/9/2008 01:22:44 AM",Level:100.06}
+# 	{CreationTime:"12/8/2008 01:22:44 AM",Level:99.72}
+# 	{CreationTime:"12/5/2008 01:22:44 AM",Level:94.00}
+# 	{CreationTime:"12/4/2008 01:22:44 AM",Level:91.41}
+# 	{CreationTime:"12/3/2008 01:22:44 AM",Level:95.90}
+# 	{CreationTime:"12/2/2008 01:22:44 AM",Level:92.47}
+# 	{CreationTime:"12/1/2008 01:22:44 AM",Level:88.93}
+# 	{CreationTime:"11/28/2008 01:22:44 AM",Level:92.67}
+# 	{CreationTime:"11/27/2008 01:22:44 AM",Level:95.00}
+# 	{CreationTime:"11/26/2008 01:22:44 AM",Level:95.00}
+# 	{CreationTime:"11/25/2008 01:22:44 AM",Level:90.80}
+# 	{CreationTime:"11/24/2008 01:22:44 AM",Level:92.95}
+# 	{CreationTime:"11/21/2008 01:22:44 AM",Level:82.58}
+# 	{CreationTime:"11/20/2008 01:22:44 AM",Level:80.49}
+# 	{CreationTime:"11/19/2008 01:22:44 AM",Level:86.29}
+# 	{CreationTime:"11/18/2008 01:22:44 AM",Level:89.91}
+# 	{CreationTime:"11/17/2008 01:22:44 AM",Level:88.14}
+# 	{CreationTime:"11/14/2008 01:22:44 AM",Level:90.24}
+# 	{CreationTime:"11/13/2008 01:22:44 AM",Level:96.44}
+# 	{CreationTime:"11/12/2008 01:22:44 AM",Level:90.12}
+# 	{CreationTime:"11/11/2008 01:22:44 AM",Level:94.77}
+# 	{CreationTime:"11/10/2008 01:22:44 AM",Level:95.88}
+# 	{CreationTime:"11/7/2008 01:22:44 AM",Level:98.24}
+# 	{CreationTime:"11/6/2008 01:22:44 AM",Level:99.10}
+# 	{CreationTime:"11/5/2008 01:22:44 AM",Level:103.30}
+# 	{CreationTime:"11/4/2008 01:22:44 AM",Level:110.99}
+# 	{CreationTime:"11/3/2008 01:22:44 AM",Level:106.96}
+# 	{CreationTime:"10/31/2008 01:22:44 AM",Level:107.59}
+# 	{CreationTime:"10/30/2008 01:22:44 AM",Level:111.04}
+# 	{CreationTime:"10/29/2008 01:22:44 AM",Level:104.55}
+# 	{CreationTime:"10/28/2008 01:22:44 AM",Level:99.91}
+# 	{CreationTime:"10/27/2008 01:22:44 AM",Level:92.09}
+# 	{CreationTime:"10/24/2008 01:22:44 AM",Level:96.38}
+# 	{CreationTime:"10/23/2008 01:22:44 AM",Level:98.23}
+# 	{CreationTime:"10/22/2008 01:22:44 AM",Level:96.87}
+# 	{CreationTime:"10/21/2008 01:22:44 AM",Level:91.49}
+# 	{CreationTime:"10/20/2008 01:22:44 AM",Level:98.44}
+# 	{CreationTime:"10/17/2008 01:22:44 AM",Level:97.40}
+# 	{CreationTime:"10/16/2008 01:22:44 AM",Level:101.89}
+# 	{CreationTime:"10/15/2008 01:22:44 AM",Level:97.95}
+# 	{CreationTime:"10/14/2008 01:22:44 AM",Level:104.08}
+# 	{CreationTime:"10/13/2008 01:22:44 AM",Level:110.26}
+# 	{CreationTime:"10/10/2008 01:22:44 AM",Level:96.80}
+# 	{CreationTime:"10/9/2008 01:22:44 AM",Level:88.74}
+# 	{CreationTime:"10/8/2008 01:22:44 AM",Level:89.79}
+# 	{CreationTime:"10/7/2008 01:22:44 AM",Level:89.16}
+# 	{CreationTime:"10/6/2008 01:22:44 AM",Level:98.14}
+# 	{CreationTime:"10/3/2008 01:22:44 AM",Level:97.07}
+# 	{CreationTime:"10/2/2008 01:22:44 AM",Level:100.10}
+# 	{CreationTime:"10/1/2008 01:22:44 AM",Level:109.12}
+# 	{CreationTime:"09/30/2008 01:22:44 AM",Level:113.66}
+# 	{CreationTime:"09/29/2008 01:22:44 AM",Level:105.26}
+# 	{CreationTime:"09/26/2008 01:22:44 AM",Level:128.24}
+# 	{CreationTime:"09/25/2008 01:22:44 AM",Level:131.93}
+# 	{CreationTime:"09/24/2008 01:22:44 AM",Level:128.71}
+# 	{CreationTime:"09/23/2008 01:22:44 AM",Level:126.84}
+# 	{CreationTime:"09/22/2008 01:22:44 AM",Level:131.05}
+# 	{CreationTime:"09/19/2008 01:22:44 AM",Level:140.91}
+# 	{CreationTime:"09/18/2008 01:22:44 AM",Level:134.09}
+# 	{CreationTime:"09/17/2008 01:22:44 AM",Level:127.83}
+# 	{CreationTime:"09/16/2008 01:22:44 AM",Level:139.88}
+# 	{CreationTime:"09/15/2008 01:22:44 AM",Level:140.36}
+# 	{CreationTime:"09/12/2008 01:22:44 AM",Level:148.94}
+# 	{CreationTime:"09/11/2008 01:22:44 AM",Level:152.65}
+# 	{CreationTime:"09/10/2008 01:22:44 AM",Level:151.61}
+# 	{CreationTime:"09/9/2008 01:22:44 AM",Level:151.68}
+# 	{CreationTime:"09/8/2008 01:22:44 AM",Level:157.92}
+# 	{CreationTime:"09/5/2008 01:22:44 AM",Level:160.18}
+# 	{CreationTime:"09/4/2008 01:22:44 AM",Level:161.22}
+# 	{CreationTime:"09/3/2008 01:22:44 AM",Level:166.96}
+# 	{CreationTime:"09/2/2008 01:22:44 AM",Level:166.19}
+# 	{CreationTime:"08/29/2008 01:22:44 AM",Level:169.53}
+# 	{CreationTime:"08/28/2008 01:22:44 AM",Level:173.74}
+# 	{CreationTime:"08/27/2008 01:22:44 AM",Level:174.67}
+# 	{CreationTime:"08/26/2008 01:22:44 AM",Level:173.64}
+# 	{CreationTime:"08/25/2008 01:22:44 AM",Level:172.55}
+# 	{CreationTime:"08/22/2008 01:22:44 AM",Level:176.79}
+# 	{CreationTime:"08/21/2008 01:22:44 AM",Level:174.29}
+# 	{CreationTime:"08/20/2008 01:22:44 AM",Level:175.84}
+# 	{CreationTime:"08/19/2008 01:22:44 AM",Level:173.53}
+# 	{CreationTime:"08/18/2008 01:22:44 AM",Level:175.39}
+# 	{CreationTime:"08/15/2008 01:22:44 AM",Level:175.74}
+# 	{CreationTime:"08/14/2008 01:22:44 AM",Level:179.32}
+# 	{CreationTime:"08/13/2008 01:22:44 AM",Level:179.30}
+# 	{CreationTime:"08/12/2008 01:22:44 AM",Level:176.73}
+# 	{CreationTime:"08/11/2008 01:22:44 AM",Level:173.56}
+# 	{CreationTime:"08/8/2008 01:22:44 AM",Level:169.55}
+# 	{CreationTime:"08/7/2008 01:22:44 AM",Level:163.57}
+# 	{CreationTime:"08/6/2008 01:22:44 AM",Level:164.19}
+# 	{CreationTime:"08/5/2008 01:22:44 AM",Level:160.64}
+# 	{CreationTime:"08/4/2008 01:22:44 AM",Level:153.23}
+# 	{CreationTime:"08/1/2008 01:22:44 AM",Level:156.66}
+# 	{CreationTime:"07/31/2008 01:22:44 AM",Level:158.95}
+# 	{CreationTime:"07/30/2008 01:22:44 AM",Level:159.88}
+# 	{CreationTime:"07/29/2008 01:22:44 AM",Level:157.08}
+# 	{CreationTime:"07/28/2008 01:22:44 AM",Level:154.40}
+# 	{CreationTime:"07/25/2008 01:22:44 AM",Level:162.12}
+# 	{CreationTime:"07/24/2008 01:22:44 AM",Level:159.03}
+# 	{CreationTime:"07/23/2008 01:22:44 AM",Level:166.26}
+# 	{CreationTime:"07/22/2008 01:22:44 AM",Level:162.02}
+# 	{CreationTime:"07/21/2008 01:22:44 AM",Level:166.29}
+# 	{CreationTime:"07/18/2008 01:22:44 AM",Level:165.15}
+# 	{CreationTime:"07/17/2008 01:22:44 AM",Level:171.81}
+# 	{CreationTime:"07/16/2008 01:22:44 AM",Level:172.81}
+# 	{CreationTime:"07/15/2008 01:22:44 AM",Level:169.64}
+# 	{CreationTime:"07/14/2008 01:22:44 AM",Level:173.88}
+# 	{CreationTime:"07/11/2008 01:22:44 AM",Level:172.58}
+# 	{CreationTime:"07/10/2008 01:22:44 AM",Level:176.63}
+# 	{CreationTime:"07/9/2008 01:22:44 AM",Level:174.25}
+# 	{CreationTime:"07/8/2008 01:22:44 AM",Level:179.55}
+# 	{CreationTime:"07/7/2008 01:22:44 AM",Level:175.16}
+# 	{CreationTime:"07/3/2008 01:22:44 AM",Level:170.12}
+# 	{CreationTime:"07/2/2008 01:22:44 AM",Level:168.18}
+# 	{CreationTime:"07/1/2008 01:22:44 AM",Level:174.68}
+# 	{CreationTime:"06/30/2008 01:22:44 AM",Level:167.44}
+# 	{CreationTime:"06/27/2008 01:22:44 AM",Level:170.09}
+# 	{CreationTime:"06/26/2008 01:22:44 AM",Level:168.26}
+# 	{CreationTime:"06/25/2008 01:22:44 AM",Level:177.39}
+# 	{CreationTime:"06/24/2008 01:22:44 AM",Level:173.25}
+# 	{CreationTime:"06/23/2008 01:22:44 AM",Level:173.16}
+# 	{CreationTime:"06/20/2008 01:22:44 AM",Level:175.27}
+# 	{CreationTime:"06/19/2008 01:22:44 AM",Level:180.90}
+# 	{CreationTime:"06/18/2008 01:22:44 AM",Level:178.75}
+# 	{CreationTime:"06/17/2008 01:22:44 AM",Level:181.43}
+# 	{CreationTime:"06/16/2008 01:22:44 AM",Level:176.84}
+# 	{CreationTime:"06/13/2008 01:22:44 AM",Level:172.37}
+# 	{CreationTime:"06/12/2008 01:22:44 AM",Level:173.26}
+# 	{CreationTime:"06/11/2008 01:22:44 AM",Level:180.81}
+# 	{CreationTime:"06/10/2008 01:22:44 AM",Level:185.64}
+# 	{CreationTime:"06/9/2008 01:22:44 AM",Level:181.61}
+# 	{CreationTime:"06/6/2008 01:22:44 AM",Level:185.64}
+# 	{CreationTime:"06/5/2008 01:22:44 AM",Level:189.43}
+# 	{CreationTime:"06/4/2008 01:22:44 AM",Level:185.19}
+# 	{CreationTime:"06/3/2008 01:22:44 AM",Level:185.37}
+# 	{CreationTime:"06/2/2008 01:22:44 AM",Level:186.10}
+# 	{CreationTime:"05/30/2008 01:22:44 AM",Level:188.75}
+# 	{CreationTime:"05/29/2008 01:22:44 AM",Level:186.69}
+# 	{CreationTime:"05/28/2008 01:22:44 AM",Level:187.01}
+# 	{CreationTime:"05/27/2008 01:22:44 AM",Level:186.43}
+# 	{CreationTime:"05/23/2008 01:22:44 AM",Level:181.17}
+# 	{CreationTime:"05/22/2008 01:22:44 AM",Level:177.05}
+# 	{CreationTime:"05/21/2008 01:22:44 AM",Level:178.19}
+# 	{CreationTime:"05/20/2008 01:22:44 AM",Level:185.90}
+# 	{CreationTime:"05/19/2008 01:22:44 AM",Level:183.60}
+# 	{CreationTime:"05/16/2008 01:22:44 AM",Level:187.62}
+# 	{CreationTime:"05/15/2008 01:22:44 AM",Level:189.73}
+# 	{CreationTime:"05/14/2008 01:22:44 AM",Level:186.26}
+# 	{CreationTime:"05/13/2008 01:22:44 AM",Level:189.96}
+# 	{CreationTime:"05/12/2008 01:22:44 AM",Level:188.16}
+# 	{CreationTime:"05/9/2008 01:22:44 AM",Level:183.45}
+# 	{CreationTime:"05/8/2008 01:22:44 AM",Level:185.06}
+# 	{CreationTime:"05/7/2008 01:22:44 AM",Level:182.59}
+# 	{CreationTime:"05/6/2008 01:22:44 AM",Level:186.66}
+# 	{CreationTime:"05/5/2008 01:22:44 AM",Level:184.73}
+# 	{CreationTime:"05/2/2008 01:22:44 AM",Level:180.94}
+# 	{CreationTime:"05/1/2008 01:22:44 AM",Level:180.00}
+# 	{CreationTime:"04/30/2008 01:22:44 AM",Level:173.95}
+# 	{CreationTime:"04/29/2008 01:22:44 AM",Level:175.05}
+# 	{CreationTime:"04/28/2008 01:22:44 AM",Level:172.24}
+# 	{CreationTime:"04/25/2008 01:22:44 AM",Level:169.73}
+# 	{CreationTime:"04/24/2008 01:22:44 AM",Level:168.94}
+# 	{CreationTime:"04/23/2008 01:22:44 AM",Level:162.89}
+# 	{CreationTime:"04/22/2008 01:22:44 AM",Level:160.20}
+# 	{CreationTime:"04/21/2008 01:22:44 AM",Level:168.16}
+# 	{CreationTime:"04/18/2008 01:22:44 AM",Level:161.04}
+# 	{CreationTime:"04/17/2008 01:22:44 AM",Level:154.49}
+# 	{CreationTime:"04/16/2008 01:22:44 AM",Level:153.70}
+# 	{CreationTime:"04/15/2008 01:22:44 AM",Level:148.38}
+# 	{CreationTime:"04/14/2008 01:22:44 AM",Level:147.78}
+# 	{CreationTime:"04/11/2008 01:22:44 AM",Level:147.14}
+# 	{CreationTime:"04/10/2008 01:22:44 AM",Level:154.55}
+# 	{CreationTime:"04/9/2008 01:22:44 AM",Level:151.44}
+# 	{CreationTime:"04/8/2008 01:22:44 AM",Level:152.84}
+# 	{CreationTime:"04/7/2008 01:22:44 AM",Level:155.89}
+# 	{CreationTime:"04/4/2008 01:22:44 AM",Level:153.08}
+# 	{CreationTime:"04/3/2008 01:22:44 AM",Level:151.61}
+# 	{CreationTime:"04/2/2008 01:22:44 AM",Level:147.49}
+# 	{CreationTime:"04/1/2008 01:22:44 AM",Level:149.53}
+# 	{CreationTime:"03/31/2008 01:22:44 AM",Level:143.50}
+# 	{CreationTime:"03/28/2008 01:22:44 AM",Level:143.01}
+# 	{CreationTime:"03/27/2008 01:22:44 AM",Level:140.25}
+# 	{CreationTime:"03/26/2008 01:22:44 AM",Level:145.06}
+# 	{CreationTime:"03/25/2008 01:22:44 AM",Level:140.98}
+# 	{CreationTime:"03/24/2008 01:22:44 AM",Level:139.53}
+# 	{CreationTime:"03/20/2008 01:22:44 AM",Level:133.27}
+# 	{CreationTime:"03/19/2008 01:22:44 AM",Level:129.67}
+# 	{CreationTime:"03/18/2008 01:22:44 AM",Level:132.82}
+# 	{CreationTime:"03/17/2008 01:22:44 AM",Level:126.73}
+# 	{CreationTime:"03/14/2008 01:22:44 AM",Level:126.61}
+# 	{CreationTime:"03/13/2008 01:22:44 AM",Level:127.94}
+# 	{CreationTime:"03/12/2008 01:22:44 AM",Level:126.03}
+# 	{CreationTime:"03/11/2008 01:22:44 AM",Level:127.35}
+# 	{CreationTime:"03/10/2008 01:22:44 AM",Level:119.69}
+# 	{CreationTime:"03/7/2008 01:22:44 AM",Level:122.25}
+# 	{CreationTime:"03/6/2008 01:22:44 AM",Level:120.93}
+# 	{CreationTime:"03/5/2008 01:22:44 AM",Level:124.49}
+# 	{CreationTime:"03/4/2008 01:22:44 AM",Level:124.62}
+# 	{CreationTime:"03/3/2008 01:22:44 AM",Level:121.73}
+# 	{CreationTime:"02/29/2008 01:22:44 AM",Level:125.02}
+# 	{CreationTime:"02/28/2008 01:22:44 AM",Level:129.91}
+# 	{CreationTime:"02/27/2008 01:22:44 AM",Level:122.96}
+# 	{CreationTime:"02/26/2008 01:22:44 AM",Level:119.15}
+# 	{CreationTime:"02/25/2008 01:22:44 AM",Level:119.74}
+# 	{CreationTime:"02/22/2008 01:22:44 AM",Level:119.46}
+# 	{CreationTime:"02/21/2008 01:22:44 AM",Level:121.54}
+# 	{CreationTime:"02/20/2008 01:22:44 AM",Level:123.82}
+# 	{CreationTime:"02/19/2008 01:22:44 AM",Level:122.18}
+# 	{CreationTime:"02/15/2008 01:22:44 AM",Level:124.63}
+# 	{CreationTime:"02/14/2008 01:22:44 AM",Level:127.46}
+# 	{CreationTime:"02/13/2008 01:22:44 AM",Level:129.40}
+# 	{CreationTime:"02/12/2008 01:22:44 AM",Level:124.86}
+# 	{CreationTime:"02/11/2008 01:22:44 AM",Level:129.45}
+# 	{CreationTime:"02/8/2008 01:22:44 AM",Level:125.48}
+# 	{CreationTime:"02/7/2008 01:22:44 AM",Level:121.24}
+# 	{CreationTime:"02/6/2008 01:22:44 AM",Level:122.00}
+# 	{CreationTime:"02/5/2008 01:22:44 AM",Level:129.36}
+# 	{CreationTime:"02/4/2008 01:22:44 AM",Level:131.65}
+# 	{CreationTime:"02/1/2008 01:22:44 AM",Level:133.75}
+# 	{CreationTime:"01/31/2008 01:22:44 AM",Level:135.36}
+# 	{CreationTime:"01/30/2008 01:22:44 AM",Level:132.18}
+# 	{CreationTime:"01/29/2008 01:22:44 AM",Level:131.54}
+# 	{CreationTime:"01/28/2008 01:22:44 AM",Level:130.01}
+# 	{CreationTime:"01/25/2008 01:22:44 AM",Level:130.01}
+# 	{CreationTime:"01/24/2008 01:22:44 AM",Level:135.60}
+# 	{CreationTime:"01/23/2008 01:22:44 AM",Level:139.07}
+# 	{CreationTime:"01/22/2008 01:22:44 AM",Level:155.64}
+# 	{CreationTime:"01/18/2008 01:22:44 AM",Level:161.36}
+# 	{CreationTime:"01/17/2008 01:22:44 AM",Level:160.89}
+# 	{CreationTime:"01/16/2008 01:22:44 AM",Level:159.64}
+# 	{CreationTime:"01/15/2008 01:22:44 AM",Level:169.04}
+# 	{CreationTime:"01/14/2008 01:22:44 AM",Level:178.78}
+# 	{CreationTime:"01/11/2008 01:22:44 AM",Level:172.69}
+# 	{CreationTime:"01/10/2008 01:22:44 AM",Level:178.02}
+# 	{CreationTime:"01/9/2008 01:22:44 AM",Level:179.40}
+# 	{CreationTime:"01/8/2008 01:22:44 AM",Level:171.25}
+# 	{CreationTime:"01/7/2008 01:22:44 AM",Level:177.64}
+# 	{CreationTime:"01/4/2008 01:22:44 AM",Level:180.05}
+# 	{CreationTime:"01/3/2008 01:22:44 AM",Level:194.93}
+# 	{CreationTime:"01/2/2008 01:22:44 AM",Level:194.84}
+# 	{CreationTime:"12/31/2007 01:22:44 AM",Level:198.08}
+# 	{CreationTime:"12/28/2007 01:22:44 AM",Level:199.83}
+# 	{CreationTime:"12/27/2007 01:22:44 AM",Level:198.57}
+# 	{CreationTime:"12/26/2007 01:22:44 AM",Level:198.95}
+# 	{CreationTime:"12/24/2007 01:22:44 AM",Level:198.80}
+# 	{CreationTime:"12/21/2007 01:22:44 AM",Level:193.91}
+# 	{CreationTime:"12/20/2007 01:22:44 AM",Level:187.21}
+# 	{CreationTime:"12/19/2007 01:22:44 AM",Level:183.12}
+# 	{CreationTime:"12/18/2007 01:22:44 AM",Level:182.98}
+# 	{CreationTime:"12/17/2007 01:22:44 AM",Level:184.40}
+# 	{CreationTime:"12/14/2007 01:22:44 AM",Level:190.39}
+# 	{CreationTime:"12/13/2007 01:22:44 AM",Level:191.83}
+# 	{CreationTime:"12/12/2007 01:22:44 AM",Level:190.86}
+# 	{CreationTime:"12/11/2007 01:22:44 AM",Level:188.54}
+# 	{CreationTime:"12/10/2007 01:22:44 AM",Level:194.21}
+# 	{CreationTime:"12/7/2007 01:22:44 AM",Level:194.30}
+# 	{CreationTime:"12/6/2007 01:22:44 AM",Level:189.95}
+# 	{CreationTime:"12/5/2007 01:22:44 AM",Level:185.50}
+# 	{CreationTime:"12/4/2007 01:22:44 AM",Level:179.81}
+# 	{CreationTime:"12/3/2007 01:22:44 AM",Level:178.86}
+# 	{CreationTime:"11/30/2007 01:22:44 AM",Level:182.22}
+# 	{CreationTime:"11/29/2007 01:22:44 AM",Level:184.29}
+# 	{CreationTime:"11/28/2007 01:22:44 AM",Level:180.22}
+# 	{CreationTime:"11/27/2007 01:22:44 AM",Level:174.81}
+# 	{CreationTime:"11/26/2007 01:22:44 AM",Level:172.54}
+# 	{CreationTime:"11/23/2007 01:22:44 AM",Level:171.54}
+# 	{CreationTime:"11/21/2007 01:22:44 AM",Level:168.46}
+# 	{CreationTime:"11/20/2007 01:22:44 AM",Level:168.85}
+# 	{CreationTime:"11/19/2007 01:22:44 AM",Level:163.95}
+# 	{CreationTime:"11/16/2007 01:22:44 AM",Level:166.39}
+# 	{CreationTime:"11/15/2007 01:22:44 AM",Level:164.30}
+# 	{CreationTime:"11/14/2007 01:22:44 AM",Level:166.11}
+# 	{CreationTime:"11/13/2007 01:22:44 AM",Level:169.96}
+# 	{CreationTime:"11/12/2007 01:22:44 AM",Level:153.76}
+# 	{CreationTime:"11/9/2007 01:22:44 AM",Level:165.37}
+# 	{CreationTime:"11/8/2007 01:22:44 AM",Level:175.47}
+# 	{CreationTime:"11/7/2007 01:22:44 AM",Level:186.30}
+# 	{CreationTime:"11/6/2007 01:22:44 AM",Level:191.79}
+# 	{CreationTime:"11/5/2007 01:22:44 AM",Level:186.18}
+# 	{CreationTime:"11/2/2007 01:22:44 AM",Level:187.87}
+# 	{CreationTime:"11/1/2007 01:22:44 AM",Level:187.44}
+# 	{CreationTime:"10/31/2007 01:22:44 AM",Level:189.95}
+# 	{CreationTime:"10/30/2007 01:22:44 AM",Level:187.00}
+# 	{CreationTime:"10/29/2007 01:22:44 AM",Level:185.09}
+# 	{CreationTime:"10/26/2007 01:22:44 AM",Level:184.70}
+# 	{CreationTime:"10/25/2007 01:22:44 AM",Level:182.78}
+# 	{CreationTime:"10/24/2007 01:22:44 AM",Level:185.93}
+# 	{CreationTime:"10/23/2007 01:22:44 AM",Level:186.16}
+# 	{CreationTime:"10/22/2007 01:22:44 AM",Level:174.36}
+# 	{CreationTime:"10/19/2007 01:22:44 AM",Level:170.42}
+# 	{CreationTime:"10/18/2007 01:22:44 AM",Level:173.50}
+# 	{CreationTime:"10/17/2007 01:22:44 AM",Level:172.75}
+# 	{CreationTime:"10/16/2007 01:22:44 AM",Level:169.58}
+# 	{CreationTime:"10/15/2007 01:22:44 AM",Level:166.98}
+# 	{CreationTime:"10/12/2007 01:22:44 AM",Level:167.25}
+# 	{CreationTime:"10/11/2007 01:22:44 AM",Level:162.23}
+# 	{CreationTime:"10/10/2007 01:22:44 AM",Level:166.79}
+# 	{CreationTime:"10/9/2007 01:22:44 AM",Level:167.86}
+# 	{CreationTime:"10/8/2007 01:22:44 AM",Level:167.91}
+# 	{CreationTime:"10/5/2007 01:22:44 AM",Level:161.45}
+# 	{CreationTime:"10/4/2007 01:22:44 AM",Level:156.24}
+# 	{CreationTime:"10/3/2007 01:22:44 AM",Level:157.92}
+# 	{CreationTime:"10/2/2007 01:22:44 AM",Level:158.45}
+# 	{CreationTime:"10/1/2007 01:22:44 AM",Level:156.34}
+# 	{CreationTime:"09/28/2007 01:22:44 AM",Level:153.47}
+# 	{CreationTime:"09/27/2007 01:22:44 AM",Level:154.50}
+# 	{CreationTime:"09/26/2007 01:22:44 AM",Level:152.77}
+# 	{CreationTime:"09/25/2007 01:22:44 AM",Level:153.18}
+# 	{CreationTime:"09/24/2007 01:22:44 AM",Level:148.28}
+# 	{CreationTime:"09/21/2007 01:22:44 AM",Level:144.15}
+# 	{CreationTime:"09/20/2007 01:22:44 AM",Level:140.31}
+# 	{CreationTime:"09/19/2007 01:22:44 AM",Level:140.77}
+# 	{CreationTime:"09/18/2007 01:22:44 AM",Level:140.92}
+# 	{CreationTime:"09/17/2007 01:22:44 AM",Level:138.41}
+# 	{CreationTime:"09/14/2007 01:22:44 AM",Level:138.81}
+# 	{CreationTime:"09/13/2007 01:22:44 AM",Level:137.20}
+# 	{CreationTime:"09/12/2007 01:22:44 AM",Level:136.85}
+# 	{CreationTime:"09/11/2007 01:22:44 AM",Level:135.49}
+# 	{CreationTime:"09/10/2007 01:22:44 AM",Level:136.71}
+# 	{CreationTime:"09/7/2007 01:22:44 AM",Level:131.77}
+# 	{CreationTime:"09/6/2007 01:22:44 AM",Level:135.01}
+# 	{CreationTime:"09/5/2007 01:22:44 AM",Level:136.76}
+# 	{CreationTime:"09/4/2007 01:22:44 AM",Level:144.16}
+# 	{CreationTime:"08/31/2007 01:22:44 AM",Level:138.48}
+# 	{CreationTime:"08/30/2007 01:22:44 AM",Level:136.25}
+# 	{CreationTime:"08/29/2007 01:22:44 AM",Level:134.08}
+# 	{CreationTime:"08/28/2007 01:22:44 AM",Level:126.82}
+# 	{CreationTime:"08/27/2007 01:22:44 AM",Level:132.25}
+# 	{CreationTime:"08/24/2007 01:22:44 AM",Level:135.30}
+# 	{CreationTime:"08/23/2007 01:22:44 AM",Level:131.07}
+# 	{CreationTime:"08/22/2007 01:22:44 AM",Level:132.51}
+# 	{CreationTime:"08/21/2007 01:22:44 AM",Level:127.57}
+# 	{CreationTime:"08/20/2007 01:22:44 AM",Level:122.22}
+# 	{CreationTime:"08/17/2007 01:22:44 AM",Level:122.06}
+# 	{CreationTime:"08/16/2007 01:22:44 AM",Level:117.05}
+# 	{CreationTime:"08/15/2007 01:22:44 AM",Level:119.90}
+# 	{CreationTime:"08/14/2007 01:22:44 AM",Level:124.03}
+# 	{CreationTime:"08/13/2007 01:22:44 AM",Level:127.79}
+# 	{CreationTime:"08/10/2007 01:22:44 AM",Level:125.00}
+# 	{CreationTime:"08/9/2007 01:22:44 AM",Level:126.39}
+# 	{CreationTime:"08/8/2007 01:22:44 AM",Level:134.01}
+# 	{CreationTime:"08/7/2007 01:22:44 AM",Level:135.03}
+# 	{CreationTime:"08/6/2007 01:22:44 AM",Level:135.25}
+# 	{CreationTime:"08/3/2007 01:22:44 AM",Level:131.85}
+# 	{CreationTime:"08/2/2007 01:22:44 AM",Level:136.49}
+# 	{CreationTime:"08/1/2007 01:22:44 AM",Level:135.00}
+# 	{CreationTime:"07/31/2007 01:22:44 AM",Level:131.76}
+# 	{CreationTime:"07/30/2007 01:22:44 AM",Level:141.43}
+# 	{CreationTime:"07/27/2007 01:22:44 AM",Level:143.85}
+# 	{CreationTime:"07/26/2007 01:22:44 AM",Level:146.00}
+# 	{CreationTime:"07/25/2007 01:22:44 AM",Level:137.26}
+# 	{CreationTime:"07/24/2007 01:22:44 AM",Level:134.89}
+# 	{CreationTime:"07/23/2007 01:22:44 AM",Level:143.70}
+# 	{CreationTime:"07/20/2007 01:22:44 AM",Level:143.75}
+# 	{CreationTime:"07/19/2007 01:22:44 AM",Level:140.00}
+# 	{CreationTime:"07/18/2007 01:22:44 AM",Level:138.12}
+# 	{CreationTime:"07/17/2007 01:22:44 AM",Level:138.91}
+# 	{CreationTime:"07/16/2007 01:22:44 AM",Level:138.10}
+# 	{CreationTime:"07/13/2007 01:22:44 AM",Level:137.73}
+# 	{CreationTime:"07/12/2007 01:22:44 AM",Level:134.07}
+# 	{CreationTime:"07/11/2007 01:22:44 AM",Level:132.39}
+# 	{CreationTime:"07/10/2007 01:22:44 AM",Level:132.35}
+# 	{CreationTime:"07/9/2007 01:22:44 AM",Level:130.33}
+# 	{CreationTime:"07/6/2007 01:22:44 AM",Level:132.30}
+# 	{CreationTime:"07/5/2007 01:22:44 AM",Level:132.75}
+# 	{CreationTime:"07/3/2007 01:22:44 AM",Level:127.17}
+# 	{CreationTime:"07/2/2007 01:22:44 AM",Level:121.26}
+# 	{CreationTime:"06/29/2007 01:22:44 AM",Level:122.04}
+# 	{CreationTime:"06/28/2007 01:22:44 AM",Level:120.56}
+# 	{CreationTime:"06/27/2007 01:22:44 AM",Level:121.89}
+# 	{CreationTime:"06/26/2007 01:22:44 AM",Level:119.65}
+# 	{CreationTime:"06/25/2007 01:22:44 AM",Level:122.34}
+# 	{CreationTime:"06/22/2007 01:22:44 AM",Level:123.00}
+# 	{CreationTime:"06/21/2007 01:22:44 AM",Level:123.90}
+# 	{CreationTime:"06/20/2007 01:22:44 AM",Level:121.55}
+# 	{CreationTime:"06/19/2007 01:22:44 AM",Level:123.66}
+# 	{CreationTime:"06/18/2007 01:22:44 AM",Level:125.09}
+# 	{CreationTime:"06/15/2007 01:22:44 AM",Level:120.50}
+# 	{CreationTime:"06/14/2007 01:22:44 AM",Level:118.75}
+# 	{CreationTime:"06/13/2007 01:22:44 AM",Level:117.50}
+# 	{CreationTime:"06/12/2007 01:22:44 AM",Level:120.38}
+# 	{CreationTime:"06/11/2007 01:22:44 AM",Level:120.19}
+# 	{CreationTime:"06/8/2007 01:22:44 AM",Level:124.49}
+# 	{CreationTime:"06/7/2007 01:22:44 AM",Level:124.07}
+# 	{CreationTime:"06/6/2007 01:22:44 AM",Level:123.64}
+# 	{CreationTime:"06/5/2007 01:22:44 AM",Level:122.67}
+# 	{CreationTime:"06/4/2007 01:22:44 AM",Level:121.33}
+# 	{CreationTime:"06/1/2007 01:22:44 AM",Level:118.40}
+# 	{CreationTime:"05/31/2007 01:22:44 AM",Level:121.19}
+# 	{CreationTime:"05/30/2007 01:22:44 AM",Level:118.77}
+# 	{CreationTime:"05/29/2007 01:22:44 AM",Level:114.35}
+# 	{CreationTime:"05/25/2007 01:22:44 AM",Level:113.62}
+# 	{CreationTime:"05/24/2007 01:22:44 AM",Level:110.69}
+# 	{CreationTime:"05/23/2007 01:22:44 AM",Level:112.89}
+# 	{CreationTime:"05/22/2007 01:22:44 AM",Level:113.54}
+# 	{CreationTime:"05/21/2007 01:22:44 AM",Level:111.98}
+# 	{CreationTime:"05/18/2007 01:22:44 AM",Level:110.02}
+# 	{CreationTime:"05/17/2007 01:22:44 AM",Level:109.44}
+# 	{CreationTime:"05/16/2007 01:22:44 AM",Level:107.34}
+# 	{CreationTime:"05/15/2007 01:22:44 AM",Level:107.52}
+# 	{CreationTime:"05/14/2007 01:22:44 AM",Level:109.36}
+# 	{CreationTime:"05/11/2007 01:22:44 AM",Level:108.74}
+# 	{CreationTime:"05/10/2007 01:22:44 AM",Level:107.34}
+# 	{CreationTime:"05/9/2007 01:22:44 AM",Level:106.88}
+# 	{CreationTime:"05/8/2007 01:22:44 AM",Level:105.06}
+# 	{CreationTime:"05/7/2007 01:22:44 AM",Level:103.92}
+# 	{CreationTime:"05/4/2007 01:22:44 AM",Level:100.81}
+# 	{CreationTime:"05/3/2007 01:22:44 AM",Level:100.40}
+# 	{CreationTime:"05/2/2007 01:22:44 AM",Level:100.39}
+# 	{CreationTime:"05/1/2007 01:22:44 AM",Level:99.47}
+# 	{CreationTime:"04/30/2007 01:22:44 AM",Level:99.80}
+# 	{CreationTime:"04/27/2007 01:22:44 AM",Level:99.92}
+# 	{CreationTime:"04/26/2007 01:22:44 AM",Level:98.84}
+# 	{CreationTime:"04/25/2007 01:22:44 AM",Level:95.35}
+# 	{CreationTime:"04/24/2007 01:22:44 AM",Level:93.24}
+
+# ]
+newPoint=->
+	return {
+		CreationTime:moment().startOf('day').subtract('days',Math.floor(Math.random()*1000)).toDate()
+		Level:Math.floor(Math.random()*100)+500
+		}
+Points = new Mongo.Collection(null)
+if (Points.find().count() is 0)
+	i=0;
+	while i<20
+		point = newPoint()
+		Points.insert(point)
+		i++
+
+
+Observe=null
+Meteor.subscribe 'logInfo', {route:'Space X Downloader',limit:3000}
+
+
+parseDate = d3.time.format('%d/%m/%Y %H:%M:%S %p').parse
+margin = 
+		top: 20
+		right: 20
+		bottom: 30
+		left: 50
+
+# in rendered callback
+# key =(d)-> 
+# 		console.log 'key'
+# 		d.CreationTime = parseDate(d.CreationTime)
+# 		d.Level=+d.Level
+# 		d._id
+Template.d3Template.destroyed =  ->
+	if Observe?
+		Observe.stop()
+
+Template.d3Template.rendered = () ->
+	container = document.getElementById('chartContainer')	
+	width = container.clientWidth - (margin.left) - (margin.right)
+	height = 500 - (margin.top) - (margin.bottom)
+
+	# svg = d3.select('#chartContainer')
+	# 	.append('svg')
+	# 	.attr('id','graph')
+	# 	.attr('width', width + margin.left + margin.right)
+	# 	.attr('height', height + margin.top + margin.bottom).append('g')
+	# 	.attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+
+
+
+
+	x = d3.time.scale()
+		.range([0,width])
+	y = d3.scale.linear().range([height,0])
+
+	xAxis = d3.svg.axis().scale(x).orient('bottom')
+	yAxis = d3.svg.axis().scale(y).orient('left')
+
+
+	line = d3.svg.line()
+		.x (d)->
+			x(new Date(d.CreationTime))
+		.y (d)->
+			y(d.Level)
+
+	area = d3.svg.area()
+		.x (d)->
+			x(new Date(d.CreationTime))
+		.y0(height)
+		.y1 (d)->
+			y(new Date(d.Level))
+
+
+	svg = d3.select('#lineChart')		
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+		.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+
+	svg.append("g")
+		.attr("class", "x axis")
+		.attr("transform", "translate(0," + height + ")")
+
+	svg.append("g")
+		.attr("class", "y axis")
+		.append("text")
+		.attr("transform", "rotate(-90)")
+		.attr("y", 6)
+		.attr("dy", ".71em")
+		.style("text-anchor", "end")
+		.text("Level")
+
+	Deps.autorun ->
+
+		dataset = AppLogs.find().fetch()
+		console.log 'points'
+
+		# paths=svg.selectAll("path.line")
+		# 	.data([dataset])
+
+		areas=svg.selectAll('path.area')
+			.data([dataset])
+
+
+
+		x.domain(d3.extent(dataset,(d)->
+			 new Date(d.CreationTime)))
+
+		y.domain(d3.extent(dataset,(d)->
+			d.Level))
+
+		# Update X axis
+		svg.select(".x.axis")
+			.transition()
+			.duration(1000)
+			.call(xAxis)
+			
+		# Update Y axis
+		svg.select(".y.axis")
+			.transition()
+			.duration(1000)
+			.call(yAxis)
+		areas
+			.enter()
+			.append("path")
+			.attr("class","area")
+			.attr('d',area)
+		areas
+			.attr('d',area)
+		areas
+			.exit()
+			.remove()
+
+		# paths
+		# 	.enter()
+		# 	.append("path")
+		# 	.attr("class", "line")
+		# 	.attr('d', line)
+
+		# paths
+		# 	.attr('d', line); #todo - should be a transisition, but removed it due to absence of key
+			
+		# paths
+		# 	.exit()
+		# 	.remove()
+
+	# area = d3.svg.area().x((d) ->
+	# 	x d.CreationTime
+	# ).y0(height).y1((d) ->
+	# 	y d.Level
+	# )
+	# svg.selectAll("area")
+	# 	.data(dataset,key)
+
+	# x.domain d3.extent dataset, (d)->
+	# 	d.CreationTime
+
+	# y.domain [0,d3.max(dataset, (d)->
+	# 	d.Level
+	# 	)]
+	# svg.append('path').datum(dataset).attr('class', 'area').attr 'd', area
+	# # Create X Axis
+	# svg.append('g')
+	# 	.attr('class', 'x axis')
+	# 	.attr('transform', 'translate(0,' + height + ')')
+	# 	#.call xAxis
+	# # Create Y Axis
+	# svg.append('g')
+	# 	.attr('class', 'y axis')
+	# 	#.call(yAxis)
+	# 	.append('text')
+	# 	.attr('transform', 'rotate(-90)')
+	# 	.attr('y', 6)
+	# 	.attr('dy', '.71em')
+	# 	.style('text-anchor', 'end')
+	# 	.text 'Level '
+		#.attr('class', 'y axis').call(yAxis).append('text').attr('transform', 'rotate(-90)').attr('y', 6).attr('dy', '.71em').style('text-anchor', 'end').text 'Price ($)'
+	
+	# transition = ->
+	# 	console.log 'transitioning'
+	# 	# Find documents needed to scale domains
+	# 	maxY=_.first(AppLogs.find({},{fields:{CreationTime:1},sort:{CreationTime:-1},limit:1}).fetch())
+	# 	maxX=_.first(AppLogs.find({},{fields:{Level:1},sort:{Level:-1},limit:1}).fetch())
+
+
+
+
+	# 	# Update X Axis
+	# 	svg.select('.x.axis')
+	# 		.transition()
+	# 		.duration(1000)
+	# 		.call(xAxis)
+
+	# 	# Update Y Axis
+	# 	svg.select('.y.axis')
+	# 		.transition()
+	# 		.duration(1000)
+	# 		.call(yAxis)
+
+	# 	svg
+	# 		.selectAll('area')
+	# 		.transition()
+	# 		.duration(1000)
+	# 		.attr('cx',(d)->
+	# 			x(d.CreationTime))
+	# 		.attr('cy',(d)->
+	# 			y(d.Level))
+
+
+	
+	# # transition once right away to set the axis scale
+	# transition()
+
+	# lazyTransition = _.debounce transition,50
+
+	# Observe=AppLogs.find().observe
+	# 	added: (document) ->			
+	# 		console.log 'added'
+
+	# 		# svg.selectAll("area")
+	# 		# 	.data(document,key)
+
+	# 		svg.append('path').datum(document).attr('class', 'area').attr 'd', area
+
+	# 		x.domain d3.extent dataset, (d)->
+	# 			d.CreationTime
+
+	# 		y.domain [0,d3.max(dataset, (d)->
+	# 			d.Level
+	# 			)]
+
+	# 		svg
+	# 			.append('path')
+	# 			.attr("id","point-"+document._id)
+	# 			.datum(document)
+	# 			.attr('cx',(d)->
+	# 				d.Level)
+	# 			.attr('cy',(d)->
+	# 				d.CreationTime)
+	# 			.attr("r",2)
+	# 			.attr('class','area')
+	# 			.attr 'd',area
+	# 		# svg
+	# 		# 	.append("path")
+	# 		# 	.datum(document)
+	# 		# 	.attr("id","point-"+document._id)
+
+	# 		lazyTransition()
+	# 	changed:(newDocument,oldDocument)->
+	# 		# Handle updates to documents
+	# 		svg
+	# 			.select("point-"+newDocument._id)
+	# 			.datum(newDocument)
+	# 		lazyTransition()
+	# 		console.log 'changed'
+
+	# 	removed:(oldDocument)->
+	# 		# Handle removed documents
+	# 		svg
+	# 			.select("point-"+oldDocument._id)
+	# 			.remove()
+	# 		lazyTransition()
+	# 		console.log 'removed'
+	# 	#return
+
+
+# Iron Router Route
+
+Router.map ->
+	@route 'd3Template',
+		path:'/d3'

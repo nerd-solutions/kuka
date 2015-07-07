@@ -1,0 +1,79 @@
+template(name='slideShowTemplate')
+	.row.wrapper.border-bottom.white-bg.page-heading
+		.col-sm-4
+			h2 #{name}
+
+			ol.breadcrumb
+				li
+					a(href='/') Home
+				li
+					a(href='/demo') Demo
+				li.active
+					a(href='/simulation/applications') 
+					strong SlideShow
+
+	.slideshow
+		.col-lg-12
+			.wrapper.wrapper-content.animated.fadeInUp
+				.reveal
+					.slides
+						section
+							| Slide 1
+						section Slides Within Slides
+							section Child Slide 1
+							section Child Slide 2
+						section Overview
+							section Press the 'o' or 'esc' Key for Overview
+						section Fullscreen
+							section Press the 'f' Key for fullscreen
+						section Embedded Media
+							video.stretch(data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4")
+						if isChrome
+							section Exporting
+								| Slide shows can be saved to pdf, allthough you must be using chrome
+
+						section
+							| Displaying Notes (Press 's to view')
+							aside.notes
+								| I'm your Notes :)
+						section(data-markdown)
+							script(type="text/template")
+								| ## Here Comes the markdown
+
+						section(data-autoslide="2000")
+							p After 2 seconds, the first fragment will be shown
+							p.fragment(data-autoslide="10000") After 10 seconds the next fragment will be shown
+							p.fragment Now, the fragment is displayed for 2 seconds before the next slide is shown
+
+
+						section
+							h2 Math Equations
+							aside.notes
+								|	Reveal.initialize({
+								| // other options ...
+								| math: {
+								|	mathjax: 'http://cdn.mathjax.org/mathjax/latest/MathJax.js',
+								|	config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+								|	},
+								|	dependencies: [{
+								|		src: 'plugin/math/math.js',
+								|		async: true
+								|		}]
+								|	});
+							| $\cos (2\theta) = \cos^2 \theta - \sin^2 \theta$
+
+
+						section
+							| JQuery Code Sample
+							pre
+								code
+									| $function () {
+									|	$('a').click(function(event) {
+									|	 alert('Thanks for visiting!'');
+									|		});
+									|	});
+
+						section
+							| Slide 3
+
+	

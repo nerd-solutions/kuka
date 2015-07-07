@@ -1,0 +1,20 @@
+template(name='d3Template')
+	.row.wrapper.border-bottom.white-bg.page-heading
+		.col-sm-4
+			h2 D3 Template
+
+			ol.breadcrumb
+				li
+					a(href='/') Home
+				li
+					a(href='/demo') Demo
+				li.active
+					a(href='/simulation/d3') 
+					strong d3
+	.row
+		.col-lg-12
+			.wrapper.wrapper-content.animated.fadeInUp
+				#chartContainer
+					svg#lineChart
+
+

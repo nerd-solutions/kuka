@@ -1,0 +1,12 @@
+template(name="alertTemplate")
+	li
+		a(href="/notifications/#{_id}")
+			div
+				i.fa(class="fa-{{errorType}}").fa-fw
+				| {{formatString message '20'}}
+				i.fa.fa-bell.fa-fw
+				| #{type} 
+				span.pull-right.text-muted.small
+					| #{createdAt}
+	li.divider
+

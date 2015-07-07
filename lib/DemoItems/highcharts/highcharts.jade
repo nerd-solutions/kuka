@@ -1,0 +1,27 @@
+template(name='highcharts')
+	.row.wrapper.border-bottom.white-bg.page-heading
+		.col-sm-4
+			h2 HighCharts
+
+			ol.breadcrumb
+				li
+					a(href='/') Home
+				li
+					a(href='/demo') Demo
+				li.active
+					a(href='/demo/highcharts') 
+					strong Highcharts
+
+		.col-lg-12
+			.wrapper.wrapper-content.animated.fadeInUp
+				.col-lg-10
+					+appChart
+					//- #container
+				.col-lg-2
+					span Count {{logCount}}
+					span Items {{itemsCount}}					
+template(name="appChart")
+	#appChart
+
+
+						

@@ -1,0 +1,6 @@
+template(name="notificationItem")
+	li#notificationItem.list-group-item
+		span.pull-right
+			| {{formatTime createdAt 'h:mm:a'}}
+		span.label(class="label-#{level}") #{level}
+		|  {{formatString message '50'}}
